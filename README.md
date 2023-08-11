@@ -25,6 +25,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -61,6 +62,7 @@
 
 ## C 
 
+- [Danny02/OpenCTM](https://github.com/Danny02/OpenCTM) - OpenCTM is a file format, a software library and a tool set for compression of 3D triangle meshes. The geometry is compressed to a fraction of comparable file formats (3DS, STL, COLLADA...), and the f
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
@@ -370,6 +372,10 @@
 - [malsup/blockui](https://github.com/malsup/blockui) - jQuery BlockUI Plugin
 - [tomayac/isearch](https://github.com/tomayac/isearch) - I-SEARCH GUI
 
+## Jinja 
+
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
+
 ## Jupyter Notebook 
 
 - [tensorflow/codelabs](https://github.com/tensorflow/codelabs) - 
@@ -514,6 +520,7 @@
 
 ## Python 
 
+- [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [EngineersNeedArt/SystemSix](https://github.com/EngineersNeedArt/SystemSix) - e-Ink Calendar
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
