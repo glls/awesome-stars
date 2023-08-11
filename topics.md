@@ -457,6 +457,7 @@
 
 ## education 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -771,11 +772,13 @@
 
 ## learning 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap) - The Front-End Developer Learning Roadmap by Frontend Masters
 
 ## library 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
 
 ## linux 
@@ -946,6 +949,8 @@
 
 ## others 
 
+- [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
+- [Danny02/OpenCTM](https://github.com/Danny02/OpenCTM) - OpenCTM is a file format, a software library and a tool set for compression of 3D triangle meshes. The geometry is compressed to a fraction of comparable file formats (3DS, STL, COLLADA...), and the f
 - [SixArm/ui-ux-design-guide](https://github.com/SixArm/ui-ux-design-guide) - UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).
 - [EngineersNeedArt/SystemSix](https://github.com/EngineersNeedArt/SystemSix) - e-Ink Calendar
 - [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo) - Flutter camera demo
@@ -1313,6 +1318,7 @@
 
 ## raspberry-pi 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
