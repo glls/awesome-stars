@@ -139,6 +139,7 @@
 - [scala](#scala)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
 - [software](#software)
@@ -174,7 +175,6 @@
 
 ## ai 
 
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
 
@@ -949,6 +949,7 @@
 
 ## others 
 
+- [pond3r/ggpo](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [Danny02/OpenCTM](https://github.com/Danny02/OpenCTM) - OpenCTM is a file format, a software library and a tool set for compression of 3D triangle meshes. The geometry is compressed to a fraction of comparable file formats (3DS, STL, COLLADA...), and the f
 - [SixArm/ui-ux-design-guide](https://github.com/SixArm/ui-ux-design-guide) - UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).
@@ -1268,6 +1269,7 @@
 
 ## python 
 
+- [fietensen/ggpo-py](https://github.com/fietensen/ggpo-py) - GGPO Python bindings
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -1297,6 +1299,7 @@
 
 ## python3 
 
+- [fietensen/ggpo-py](https://github.com/fietensen/ggpo-py) - GGPO Python bindings
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 
@@ -1401,6 +1404,10 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+## serverless 
+
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 
 ## shell 
 
