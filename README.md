@@ -62,6 +62,7 @@
 
 ## C 
 
+- [kusma/amiga-dev](https://github.com/kusma/amiga-dev) - Amiga development environment (VBCC+VASM+VLINK)
 - [Danny02/OpenCTM](https://github.com/Danny02/OpenCTM) - OpenCTM is a file format, a software library and a tool set for compression of 3D triangle meshes. The geometry is compressed to a fraction of comparable file formats (3DS, STL, COLLADA...), and the f
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
@@ -245,6 +246,8 @@
 
 ## Java 
 
+- [Vagelis-Prokopiou/yt](https://github.com/Vagelis-Prokopiou/yt) - YouTube code
+- [geopaparazzi/geopaparazzi](https://github.com/geopaparazzi/geopaparazzi) - Because not all paparazzis are evil!
 - [hwding/pdf-unstamper](https://github.com/hwding/pdf-unstamper) - Remove textual watermark of any font, any encoding and any language with pdf-unstamper now!
 - [billthefarmer/sig-gen](https://github.com/billthefarmer/sig-gen) - Android Signal Generator
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
@@ -284,6 +287,7 @@
 
 ## JavaScript 
 
+- [looeee/discoverthreejs-site](https://github.com/looeee/discoverthreejs-site) - Repo for the book Discover three.js!
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
@@ -525,6 +529,7 @@
 
 ## Python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [weewx/weewx](https://github.com/weewx/weewx) - WeeWX code repository
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
