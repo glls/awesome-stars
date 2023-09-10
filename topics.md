@@ -1276,6 +1276,7 @@
 
 ## php 
 
+- [selwynpolit/d9book](https://github.com/selwynpolit/d9book) - Drupal at your Fingertips: A developers quick reference for Drupal 9 and 10
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers.
