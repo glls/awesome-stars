@@ -485,7 +485,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [ec-europa/joinup-dev](https://github.com/ec-europa/joinup-dev) - The Joinup project moved to https://git.fpfis.eu/ec-europa/digit-joinup-reference
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers.
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [kapolos/pramda](https://github.com/kapolos/pramda) - Practical Functional Programming in PHP
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
