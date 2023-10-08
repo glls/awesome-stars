@@ -1256,7 +1256,7 @@
 - [GarageGames/Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
 - [mishamx/yii-user](https://github.com/mishamx/yii-user) - Yii PHP Framework extension for registration and management users accounts.
 - [contiki-os/contiki](https://github.com/contiki-os/contiki) - The official git repository for Contiki, the open source OS for the Internet of Things
-- [loot/loot](https://github.com/loot/loot) - A load order optimisation tool for the Elder Scrolls (Morrowind and later) and Fallout (3 and later) games.
+- [loot/loot](https://github.com/loot/loot) - A modding utility for Starfield and some Elder Scrolls and Fallout games.
 - [schmunk42/yii-relation](https://github.com/schmunk42/yii-relation) - Yii Framework active record relation components
 - [schmunk42/gii-template-collection](https://github.com/schmunk42/gii-template-collection) - Gii Template Collection with code templates for models and CRUDs
 - [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
