@@ -165,7 +165,7 @@
 - [vlc-qt/vlc-qt](https://github.com/vlc-qt/vlc-qt) - VLC-Qt - a simple library to connect Qt application with libVLC
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
 - [GarageGames/Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
-- [loot/loot](https://github.com/loot/loot) - A load order optimisation tool for the Elder Scrolls (Morrowind and later) and Fallout (3 and later) games.
+- [loot/loot](https://github.com/loot/loot) - A modding utility for Starfield and some Elder Scrolls and Fallout games.
 - [diwu/AnalyticX](https://github.com/diwu/AnalyticX) - A C++ wrapper of Flurry for Cocos2d-X. Supports Android and iOS.
 - [Razor-qt/razor-qt](https://github.com/Razor-qt/razor-qt) - Razor is now LXQt:
 
