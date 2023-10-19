@@ -407,7 +407,7 @@
 ## data-science 
 
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 
 ## data-structures 
 
@@ -1099,7 +1099,7 @@
 - [kapolos/pramda](https://github.com/kapolos/pramda) - Practical Functional Programming in PHP
 - [dracula/gamemaker-studio](https://github.com/dracula/gamemaker-studio) - 🧛🏻‍♂️ Dark theme for GameMaker Studio 2
 - [santinic/hackwage](https://github.com/santinic/hackwage) - RSS/JSON Aggregator and Search Engine for IT Jobs
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [PacktPublishing/React-and-React-Native-Second-Edition](https://github.com/PacktPublishing/React-and-React-Native-Second-Edition) - React and React Native, Second Edition, published by Packt
 - [googlearchive/science-journal](https://github.com/googlearchive/science-journal) - Use the sensors in your mobile devices to perform science experiments. Science doesn’t just happen in the classroom or lab—tools like Science Journal let you see how the world works with just your pho
 - [UltimateFishbot/UltimateFishbot](https://github.com/UltimateFishbot/UltimateFishbot) - A simple World of Warcraft fishbot written in VB.net
@@ -1419,7 +1419,7 @@
 
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 
 ## raspberry-pi 
 
