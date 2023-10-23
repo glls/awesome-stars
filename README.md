@@ -395,7 +395,7 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [tensorflow/codelabs](https://github.com/tensorflow/codelabs) - 
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [skorokithakis/pythess-files](https://github.com/skorokithakis/pythess-files) - The code files/presentations/everything else used in the PyThess meetup
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
