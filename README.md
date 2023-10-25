@@ -234,6 +234,7 @@
 - [LukaszPawlowski-MS/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-MS/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
 - [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap) - The Front-End Developer Learning Roadmap by Frontend Masters
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [hack-tools/hack-tools.github.io](https://github.com/hack-tools/hack-tools.github.io) - Tools, resources, tips and other "hackathon related" stuff.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
@@ -418,7 +419,6 @@
 - [SixArm/ui-ux-design-guide](https://github.com/SixArm/ui-ux-design-guide) - UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [exynos5420/android_device_samsung_n2awifi](https://github.com/exynos5420/android_device_samsung_n2awifi) - 
-- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
 
 ## NSIS 
@@ -468,6 +468,7 @@
 - [wireapp/wire](https://github.com/wireapp/wire) - :wavy_dash: Overview of the open source code for Wire
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -614,7 +615,6 @@
 
 ## SCSS 
 
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks.
 
 ## SVG 
