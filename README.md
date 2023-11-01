@@ -255,7 +255,7 @@
 - [geopaparazzi/geopaparazzi](https://github.com/geopaparazzi/geopaparazzi) - Because not all paparazzis are evil!
 - [hwding/pdf-unstamper](https://github.com/hwding/pdf-unstamper) - Remove textual watermark of any font, any encoding and any language with pdf-unstamper now!
 - [billthefarmer/sig-gen](https://github.com/billthefarmer/sig-gen) - Android Signal Generator
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [googlearchive/science-journal](https://github.com/googlearchive/science-journal) - Use the sensors in your mobile devices to perform science experiments. Science doesn’t just happen in the classroom or lab—tools like Science Journal let you see how the world works with just your pho
 - [Haehnchen/idea-php-annotation-plugin](https://github.com/Haehnchen/idea-php-annotation-plugin) - Add PHP annotation support for PhpStorm and IntelliJ
 - [amitshekhariitbhu/awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things) - A curated list of awesome android things tutorials, libraries and much more at one place
