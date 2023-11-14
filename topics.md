@@ -184,6 +184,7 @@
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
 
@@ -1052,7 +1053,6 @@
 - [pond3r/ggpo](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
 - [Danny02/OpenCTM](https://github.com/Danny02/OpenCTM) - OpenCTM is a file format, a software library and a tool set for compression of 3D triangle meshes. The geometry is compressed to a fraction of comparable file formats (3DS, STL, COLLADA...), and the f
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [SixArm/ui-ux-design-guide](https://github.com/SixArm/ui-ux-design-guide) - UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).
 - [EngineersNeedArt/SystemSix](https://github.com/EngineersNeedArt/SystemSix) - e-Ink Calendar
 - [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo) - Flutter camera demo
