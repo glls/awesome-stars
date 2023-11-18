@@ -13,7 +13,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [CoffeeScript](#coffeescript)
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -180,10 +179,6 @@
 ## Clojure 
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## CoffeeScript 
-
-- [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 
 ## D 
 
@@ -360,6 +355,7 @@
 - [sirodoht/ketchup](https://github.com/sirodoht/ketchup) - Pomodoro timer in React
 - [tj/consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
+- [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [victorporof/Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) - HTML, CSS, JavaScript, JSON, React/JSX and Vue code formatter for Sublime Text 2 and 3 via node.js
 - [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
 - [tarlepp/Taskboard](https://github.com/tarlepp/Taskboard) - a Sails application to mimic "scrum-ban" taskboard.
