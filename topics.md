@@ -209,7 +209,7 @@
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [wireapp/wire-android](https://github.com/wireapp/wire-android) - :phone: Wire for Android
+- [wireapp/wire-android_legacy](https://github.com/wireapp/wire-android_legacy) - Deprecated! - :phone: Wire for Android
 - [timusus/Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
