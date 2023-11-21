@@ -620,7 +620,7 @@
 ## Scala 
 
 - [mrdimosthenis/creative-scala](https://github.com/mrdimosthenis/creative-scala) - Translation of "Creative Scala" to Greek
-- [wireapp/wire-android](https://github.com/wireapp/wire-android) - :phone: Wire for Android
+- [wireapp/wire-android_legacy](https://github.com/wireapp/wire-android_legacy) - Deprecated! - :phone: Wire for Android
 
 ## Shell 
 
