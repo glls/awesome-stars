@@ -1097,7 +1097,7 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [WowUp/WowUp](https://github.com/WowUp/WowUp) - WowUp the World of Warcraft addon updater
-- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
+- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [OpenELEC/dvb-firmware](https://github.com/OpenELEC/dvb-firmware) - 
 - [BreeeZe/rpos](https://github.com/BreeeZe/rpos) - Raspberry Pi Onvif Server
 - [Sidoine/Ovale](https://github.com/Sidoine/Ovale) - An add-on for World of Warcraft that displays icons based on scripts
