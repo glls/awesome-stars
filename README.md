@@ -74,7 +74,7 @@
 - [linuxmint/nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
+- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [pjreddie/NeHe-Tutorials-Using-GLFW](https://github.com/pjreddie/NeHe-Tutorials-Using-GLFW) - NeHe Tutorials using GLFW for windowing.
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
