@@ -186,6 +186,7 @@
 
 ## Dart 
 
+- [flutter/gallery](https://github.com/flutter/gallery) - Flutter Gallery is a resource to help developers evaluate and use Flutter
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 - [SharezoneApp/sharezone-app](https://github.com/SharezoneApp/sharezone-app) - Sharezone is a collaborative school organization app for iOS, Android, macOS and web with +450,000 registered users. Built with Flutter & Firebase.
 - [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo) - Flutter camera demo
