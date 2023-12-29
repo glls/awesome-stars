@@ -144,6 +144,7 @@
 - [Sumwunn/AchievementsModsEnabler](https://github.com/Sumwunn/AchievementsModsEnabler) - Enables achievements in Fallout 4 & Skyrim SE when using mods. This is designed to be version independent.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [simulationcraft/simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [kometbomb/prototracker](https://github.com/kometbomb/prototracker) - Prototracker
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
@@ -259,7 +260,6 @@
 - [googlearchive/science-journal](https://github.com/googlearchive/science-journal) - Use the sensors in your mobile devices to perform science experiments. Science doesn’t just happen in the classroom or lab—tools like Science Journal let you see how the world works with just your pho
 - [Haehnchen/idea-php-annotation-plugin](https://github.com/Haehnchen/idea-php-annotation-plugin) - Add PHP annotation support for PhpStorm and IntelliJ
 - [amitshekhariitbhu/awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things) - A curated list of awesome android things tutorials, libraries and much more at one place
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [Nilhcem/tensorflow-classifier-android](https://github.com/Nilhcem/tensorflow-classifier-android) - http://nilhcem.com/android/custom-tensorflow-classifier
 - [IvanVolosyuk/diskusage](https://github.com/IvanVolosyuk/diskusage) - Automatically exported from code.google.com/p/diskusage
 - [timusus/Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player
