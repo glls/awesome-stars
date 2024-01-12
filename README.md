@@ -395,7 +395,6 @@
 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [tensorflow/codelabs](https://github.com/tensorflow/codelabs) - 
-- [aquacropos/aquacrop](https://github.com/aquacropos/aquacrop) - AquaCrop-OSPy: Python implementation of AquaCrop-OS
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [skorokithakis/pythess-files](https://github.com/skorokithakis/pythess-files) - The code files/presentations/everything else used in the PyThess meetup
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -563,6 +562,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
 - [makism/dyconnmap](https://github.com/makism/dyconnmap) - A dynamic connectome mapping module in python.
+- [aquacropos/aquacrop](https://github.com/aquacropos/aquacrop) - AquaCrop-OSPy: Python implementation of AquaCrop-OS
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
