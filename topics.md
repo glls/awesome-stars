@@ -1052,6 +1052,7 @@
 
 ## others 
 
+- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [rcaelers/workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily
 - [bytefeld/epc.net](https://github.com/bytefeld/epc.net) - A .NET library to work with Electronic Product Codes (EPC, SSCC, SGTIN)
 - [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) - 
