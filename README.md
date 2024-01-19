@@ -306,7 +306,7 @@
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 - [linuxfoundation/lf-podcast](https://github.com/linuxfoundation/lf-podcast) - From the Linux Foundation office in New York City, welcome to "The Untold Stories of Open Source". Each week we explore the people who are supporting Open Source projects, how they became involved wit
 - [tilemill-project/tilemill](https://github.com/tilemill-project/tilemill) - TileMill is a modern map design studio
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [eurostat/eurostat-map.js](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data directly retrieved from Eurostat database.
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
