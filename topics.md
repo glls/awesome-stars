@@ -190,7 +190,7 @@
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
 
 ## algorithm 
@@ -287,7 +287,7 @@
 ## aws 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [margaritis/dotfiles](https://github.com/margaritis/dotfiles) - Time for burning dotfiles, Heisenberg approves!
@@ -295,7 +295,7 @@
 ## azure 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 
 ## babel 
 
@@ -422,7 +422,7 @@
 
 ## data-science 
 
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 
 ## data-structures 
@@ -858,7 +858,7 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 
@@ -904,7 +904,7 @@
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [Agri-Hub/Callisto-Dataset-Collection](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Copernicus data.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -1300,7 +1300,7 @@
 - [diwu/AnalyticX](https://github.com/diwu/AnalyticX) - A C++ wrapper of Flurry for Cocos2d-X. Supports Android and iOS.
 - [icos-urenio/virtual-city-market](https://github.com/icos-urenio/virtual-city-market) - Empowers the city local marketplace by bringing together customers and merchants.
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
-- [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
+- [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - DEPRECATED - A HTML5/JavaScript multiplayer game experiment
 - [playgameservices/play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
 - [SmartReceipts/SmartReceiptsLibrary](https://github.com/SmartReceipts/SmartReceiptsLibrary) - A customizable, easy-to-use receipt scanner for Android
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
@@ -1419,7 +1419,7 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [packt-cli/Packt-Publishing-Free-Learning](https://github.com/packt-cli/Packt-Publishing-Free-Learning) - Scripts that automatically claim and download  free daily eBooks from https://www.packtpub.com/packt/offers/free-learning
@@ -1451,7 +1451,7 @@
 
 ## r 
 
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 
 ## raspberry-pi 
