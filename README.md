@@ -379,7 +379,7 @@
 - [giovdk21/yiiplayground](https://github.com/giovdk21/yiiplayground) - Repository of the Yii Playground project
 - [clevertech/YiiBooster](https://github.com/clevertech/YiiBooster) - YiiBooster
 - [icos-urenio/virtual-city-market](https://github.com/icos-urenio/virtual-city-market) - Empowers the city local marketplace by bringing together customers and merchants.
-- [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
+- [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - DEPRECATED - A HTML5/JavaScript multiplayer game experiment
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [googlearchive/ChromeWebLab](https://github.com/googlearchive/ChromeWebLab) - The Chrome Web Lab for Makers, Hackers and everyone
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -570,7 +570,7 @@
 - [NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
