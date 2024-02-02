@@ -398,7 +398,6 @@
 - [tensorflow/codelabs](https://github.com/tensorflow/codelabs) - 
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [skorokithakis/pythess-files](https://github.com/skorokithakis/pythess-files) - The code files/presentations/everything else used in the PyThess meetup
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
 
 ## Kotlin 
@@ -581,6 +580,7 @@
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -679,7 +679,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [cosmograph-org/cosmos](https://github.com/cosmograph-org/cosmos) - GPU-accelerated force graph layout and rendering
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [chapter-three/next-drupal](https://github.com/chapter-three/next-drupal) - Next.js for Drupal has everything you need to build a next-generation front-end for your Drupal site: SSG, SSR, and ISR, Multi-site, Authentication, Webforms, Search API, I18n and Preview mode (works 
 - [pavkout/react-mailkit](https://github.com/pavkout/react-mailkit) - Create awesome and fully responsive emails without stress.
