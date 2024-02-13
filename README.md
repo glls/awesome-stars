@@ -573,7 +573,7 @@
 - [makism/dyconnmap](https://github.com/makism/dyconnmap) - A dynamic connectome mapping module in python.
 - [aquacropos/aquacrop](https://github.com/aquacropos/aquacrop) - AquaCrop-OSPy: Python implementation of AquaCrop-OS
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [nanohop/sketch-to-react-native](https://github.com/nanohop/sketch-to-react-native) - Convert Sketch files into React Native components
 - [NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
