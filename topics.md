@@ -1611,6 +1611,7 @@
 
 ## symfony 
 
+- [selwynpolit/d9book](https://github.com/selwynpolit/d9book) - Drupal at your Fingertips: A developers quick reference for Drupal 9 and 10
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [Haehnchen/idea-php-annotation-plugin](https://github.com/Haehnchen/idea-php-annotation-plugin) - Add PHP annotation support for PhpStorm and IntelliJ
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
