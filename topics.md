@@ -266,6 +266,7 @@
 
 ## awesome 
 
+- [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -1095,6 +1096,7 @@
 
 ## others 
 
+- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [sparkbox/bouncy-ball](https://github.com/sparkbox/bouncy-ball) - :red_circle:  Compare web animation techniques by bouncing a ball with each one.
 - [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 - [p0rcupine/Contract-Killer](https://github.com/p0rcupine/Contract-Killer) - The Greek version of Contract Killer
@@ -1223,7 +1225,6 @@
 - [jens-maus/amissl](https://github.com/jens-maus/amissl) - :closed_lock_with_key: AmiSSL is the AmigaOS/MorphOS/AROS port of OpenSSL. It wraps the full functionality of OpenSSL into a full-fledged Amiga shared library that makes it possible for Amiga applicat
 - [vmasto/react-slides](https://github.com/vmasto/react-slides) - The UI as a Pure Function
 - [justafish/drupal_cors](https://github.com/justafish/drupal_cors) - Drupal CORS module http://drupal.org/project/cors
-- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [patrickgh3/DerpXml](https://github.com/patrickgh3/DerpXml) - Lightweight SAX-style XML parser for GameMaker
 - [sshock/AFFLIBv3](https://github.com/sshock/AFFLIBv3) - AFF is an open and extensible file format to store disk images and associated metadata.
 - [libyal/libewf](https://github.com/libyal/libewf) - Libewf is a library to access the Expert Witness Compression Format (EWF)
