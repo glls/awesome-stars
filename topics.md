@@ -402,6 +402,7 @@
 
 ## cpp 
 
+- [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
 - [wdas/ptex](https://github.com/wdas/ptex) - Per-Face Texture Mapping for Production Rendering https://wdas.github.io/ptex
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
@@ -913,6 +914,7 @@
 
 ## linux 
 
+- [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
@@ -947,6 +949,7 @@
 
 ## macos 
 
+- [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -1722,6 +1725,7 @@
 
 ## windows 
 
+- [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
