@@ -768,7 +768,6 @@
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
-- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [yiisoft/yii](https://github.com/yiisoft/yii) - Yii PHP Framework 1.1.x
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
