@@ -1106,6 +1106,7 @@
 
 ## others 
 
+- [Kruithne/wow.export](https://github.com/Kruithne/wow.export) - 📦 Export Toolkit for World of Warcraft
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [sparkbox/bouncy-ball](https://github.com/sparkbox/bouncy-ball) - :red_circle:  Compare web animation techniques by bouncing a ball with each one.
