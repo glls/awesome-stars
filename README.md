@@ -130,6 +130,7 @@
 
 ## C++ 
 
+- [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 - [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
@@ -303,7 +304,6 @@
 - [INsReady/DrupalCloud](https://github.com/INsReady/DrupalCloud) - DrupalCloud is a library for native Android applications to communicate with Drupal web services.
 - [roboguice/roboguice](https://github.com/roboguice/roboguice) - Google Guice on Android, version 3.0 [RETIRED]
 - [JakeWharton/ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) - [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
-- [SmartReceipts/SmartReceiptsLibrary](https://github.com/SmartReceipts/SmartReceiptsLibrary) - A customizable, easy-to-use receipt scanner for Android
 - [iPaulPro/aFileChooser](https://github.com/iPaulPro/aFileChooser) - [DEPRECATED] Android library that provides a file explorer to let users select files on external storage.
 - [routerkeygen/routerkeygenAndroid](https://github.com/routerkeygen/routerkeygenAndroid) - Router Keygen generate default WPA/WEP keys for several routers.
 - [nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine) - Free Android 2D OpenGL Game Engine
@@ -312,6 +312,7 @@
 
 ## JavaScript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [Kruithne/wow.export](https://github.com/Kruithne/wow.export) - 📦 Export Toolkit for World of Warcraft
@@ -669,6 +670,7 @@
 
 ## Shell 
 
+- [TypeTogether/Playwrite](https://github.com/TypeTogether/Playwrite) - Sensei primary repository.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [oscarfonts/docker-geoserver](https://github.com/oscarfonts/docker-geoserver) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
