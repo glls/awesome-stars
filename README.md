@@ -171,7 +171,7 @@
 - [Eun/MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
 - [google/zooshi](https://github.com/google/zooshi) - Multi-platform game where you feed well dressed animals with sushi
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [Pulse-Eight/libcec](https://github.com/Pulse-Eight/libcec) - USB CEC Adapter communication Library  http://libcec.pulse-eight.com/
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
