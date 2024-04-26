@@ -1312,7 +1312,7 @@
 - [drupal/drupal](https://github.com/drupal/drupal) - Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.
 - [drupalcommerce/commerce](https://github.com/drupalcommerce/commerce) - Commerce 2.x development
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
-- [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+- [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [tarlepp/Taskboard](https://github.com/tarlepp/Taskboard) - a Sails application to mimic "scrum-ban" taskboard.
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 - [Hexxeh/rpi-firmware](https://github.com/Hexxeh/rpi-firmware) - Firmware files for the Raspberry Pi
