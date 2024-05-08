@@ -1127,6 +1127,7 @@
 
 ## others 
 
+- [puddletag/puddletag](https://github.com/puddletag/puddletag) - Powerful, simple, audio tag editor for GNU/Linux
 - [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
 - [TypeTogether/Playwrite](https://github.com/TypeTogether/Playwrite) - Sensei primary repository.
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
