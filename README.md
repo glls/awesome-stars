@@ -47,6 +47,7 @@
 - [SVG](#svg)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -236,6 +237,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
@@ -273,6 +275,7 @@
 
 ## Java 
 
+- [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 - [Vagelis-Prokopiou/yt](https://github.com/Vagelis-Prokopiou/yt) - YouTube code
 - [geopaparazzi/geopaparazzi](https://github.com/geopaparazzi/geopaparazzi) - Because not all paparazzis are evil!
 - [hwding/pdf-unstamper](https://github.com/hwding/pdf-unstamper) - Remove textual watermark of any font, any encoding and any language with pdf-unstamper now!
@@ -575,6 +578,7 @@
 
 ## Python 
 
+- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
 - [puddletag/puddletag](https://github.com/puddletag/puddletag) - Powerful, simple, audio tag editor for GNU/Linux
 - [TypeTogether/Playwrite](https://github.com/TypeTogether/Playwrite) - Sensei primary repository.
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
@@ -693,6 +697,10 @@
 - [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 - [margaritis/dotfiles](https://github.com/margaritis/dotfiles) - Time for burning dotfiles, Heisenberg approves!
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
+
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
 ## Swift 
 
