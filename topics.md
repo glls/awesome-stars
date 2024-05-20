@@ -461,7 +461,7 @@
 ## data-science 
 
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 
 ## data-structures 
 
@@ -1567,7 +1567,7 @@
 ## r 
 
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 
 ## raspberry-pi 
 
