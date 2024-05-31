@@ -579,6 +579,7 @@
 
 ## Python 
 
+- [vale46n1/immich_duplicate_finder](https://github.com/vale46n1/immich_duplicate_finder) - A Comprehensive Solution for Identifying and Managing Duplicate Photos in Immich
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [puddletag/puddletag](https://github.com/puddletag/puddletag) - Powerful, simple, audio tag editor for GNU/Linux
@@ -679,6 +680,7 @@
 
 ## Shell 
 
+- [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [oscarfonts/docker-geoserver](https://github.com/oscarfonts/docker-geoserver) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
