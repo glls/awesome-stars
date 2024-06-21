@@ -72,6 +72,7 @@
 
 ## C 
 
+- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian.
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [wdas/ptex](https://github.com/wdas/ptex) - Per-Face Texture Mapping for Production Rendering https://wdas.github.io/ptex
 - [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) - 
@@ -687,6 +688,7 @@
 
 ## Shell 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [oscarfonts/docker-geoserver](https://github.com/oscarfonts/docker-geoserver) - 
