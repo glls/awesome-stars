@@ -135,6 +135,7 @@
 
 ## C++ 
 
+- [tonioni/WinUAE](https://github.com/tonioni/WinUAE) - WinUAE Amiga emulator
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [hydrogen-music/hydrogen](https://github.com/hydrogen-music/hydrogen) - The advanced drum machine for Linux, macOS, and Windows
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
