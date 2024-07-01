@@ -1171,6 +1171,7 @@
 
 ## others 
 
+- [tonioni/WinUAE](https://github.com/tonioni/WinUAE) - WinUAE Amiga emulator
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
 - [sanderfrenken/Universal-LPC-Spritesheet-Character-Generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 - [grannypron/uaf](https://github.com/grannypron/uaf) - 
