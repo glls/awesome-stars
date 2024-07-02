@@ -72,6 +72,7 @@
 
 ## C 
 
+- [nefarius/DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 - [aros-development-team/AROS](https://github.com/aros-development-team/AROS) - Main AROS repository for active development. Contains the main Operating System components and Build System.
 - [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian.
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
