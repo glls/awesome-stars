@@ -1171,6 +1171,7 @@
 
 ## others 
 
+- [gaultier/minesweeper-from-scratch](https://github.com/gaultier/minesweeper-from-scratch) - 
 - [vnglst/pong-wars](https://github.com/vnglst/pong-wars) - 
 - [nefarius/DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 - [tonioni/WinUAE](https://github.com/tonioni/WinUAE) - WinUAE Amiga emulator
