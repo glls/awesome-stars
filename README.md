@@ -36,6 +36,7 @@
 - [Markdown](#markdown)
 - [NSIS](#nsis)
 - [Objective-C](#objective-c)
+- [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -490,6 +491,10 @@
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
 - [arauchfuss/Simple-Comic](https://github.com/arauchfuss/Simple-Comic) - OS X comic viewer
+
+## Odin 
+
+- [gaultier/minesweeper-from-scratch](https://github.com/gaultier/minesweeper-from-scratch) - 
 
 ## Others 
 
