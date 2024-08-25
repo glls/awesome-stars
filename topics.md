@@ -1421,7 +1421,7 @@
 - [irlnathan/activityoverlord20](https://github.com/irlnathan/activityoverlord20) - This is an update to activityOverlord.
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [CodeboxIDE/codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
