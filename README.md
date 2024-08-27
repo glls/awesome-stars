@@ -507,7 +507,7 @@
 - [p0rcupine/Contract-Killer](https://github.com/p0rcupine/Contract-Killer) - The Greek version of Contract Killer
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [michiganrobotics/rob501](https://github.com/michiganrobotics/rob501) - Mathematics for Robotics
 - [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [BlitterStudio/AnimPlayer](https://github.com/BlitterStudio/AnimPlayer) - A simple multi-format, multi-platform Anim player
