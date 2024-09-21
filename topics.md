@@ -213,7 +213,7 @@
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
 
 ## algorithm 
@@ -324,7 +324,7 @@
 
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [margaritis/dotfiles](https://github.com/margaritis/dotfiles) - Time for burning dotfiles, Heisenberg approves!
@@ -332,7 +332,7 @@
 ## azure 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 
 ## babel 
 
@@ -483,7 +483,7 @@
 
 ## data-science 
 
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 
 ## data-structures 
@@ -800,7 +800,7 @@
 
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -909,7 +909,7 @@
 ## javascript 
 
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [looeee/discoverthreejs-site](https://github.com/looeee/discoverthreejs-site) - Repo for the book Discover three.js!
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
@@ -963,7 +963,7 @@
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
@@ -1026,7 +1026,7 @@
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [Agri-Hub/Callisto-Dataset-Collection](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Copernicus data.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -1202,6 +1202,7 @@
 
 ## others 
 
+- [publiclab/leaflet-multispectral](https://github.com/publiclab/leaflet-multispectral) - Multispectral color manipulation and processing (NDVI etc) for Leaflet image overlays with pure JavaScript in Image Sequencer
 - [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [Dicklesworthstone/visual_astar_python](https://github.com/Dicklesworthstone/visual_astar_python) - Generate Cool-Looking Mazes and Animations Illustrating the A* Pathfinding Algorithm
 - [mlfoundations/MINT-1T](https://github.com/mlfoundations/MINT-1T) - MINT-1T: A one trillion token multimodal interleaved dataset.
@@ -1544,7 +1545,7 @@
 ## postgresql 
 
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -1604,7 +1605,7 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [packt-cli/Packt-Publishing-Free-Learning](https://github.com/packt-cli/Packt-Publishing-Free-Learning) - Scripts that automatically claim and download  free daily eBooks from https://www.packtpub.com/packt/offers/free-learning
@@ -1637,7 +1638,7 @@
 
 ## r 
 
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 
 ## raspberry-pi 
@@ -1655,7 +1656,7 @@
 
 ## react 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
@@ -1762,17 +1763,17 @@
 
 ## sql 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 
 ## sql-server 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 ## sqlite 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 ## stable-diffusion 
 
@@ -1813,7 +1814,7 @@
 
 ## tailwindcss 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 ## tensorflow 
 
