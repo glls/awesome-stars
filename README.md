@@ -498,7 +498,7 @@
 
 ## Odin 
 
-- [gaultier/minesweeper-from-scratch](https://github.com/gaultier/minesweeper-from-scratch) - 
+- [gaultier/minesweeper-from-scratch](https://github.com/gaultier/minesweeper-from-scratch) - A video game only using direct X11 calls for rendering, without any library, in Odin.
 
 ## Others 
 
