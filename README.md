@@ -443,7 +443,7 @@
 
 ## Jupyter Notebook 
 
-- [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
+- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [tensorflow/codelabs](https://github.com/tensorflow/codelabs) - 
@@ -758,7 +758,7 @@
 
 ## TypeScript 
 
-- [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - truly free and open source.
+- [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
