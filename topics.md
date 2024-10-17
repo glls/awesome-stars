@@ -1279,7 +1279,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [acquia/drupal-spec-tool](https://github.com/acquia/drupal-spec-tool) - A tool for specifying Drupal architecture details and generating automated tests for them.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [eurostat/eurostat-map.js](https://github.com/eurostat/eurostat-map.js) - eurostat-map.js: quickly create and customise web maps showing Eurostat data directly retrieved from Eurostat database.
+- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Thematic web maps based on D3.
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
 - [aiba/react-native-m1](https://github.com/aiba/react-native-m1) - react-native 0.64.2 with Apple M1 and XCode 12.5
 - [niconiahi/chakra-paginator](https://github.com/niconiahi/chakra-paginator) - An aria compliant and completely typed pagination library built upon Chakra UI with styling flexibility kept in mind
