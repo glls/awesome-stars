@@ -318,7 +318,6 @@
 - [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
 - [osmdroid/osmdroid](https://github.com/osmdroid/osmdroid) - OpenStreetMap-Tools for Android
 - [Revivius/nb-darcula](https://github.com/Revivius/nb-darcula) - Darcula LAF for NetBeans
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [magarena/magarena](https://github.com/magarena/magarena) - Magarena is a single-player fantasy card game played against a computer opponent.
 - [lukehutch/android-multitouch-controller](https://github.com/lukehutch/android-multitouch-controller) - Automatically exported from code.google.com/p/android-multitouch-controller
 - [fyhertz/spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) - A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC
@@ -732,6 +731,7 @@
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [BlitterStudio/amiberry-v1](https://github.com/BlitterStudio/amiberry-v1) - A script to configure a Minibian system as a dedicated Amiga emulation machine
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [bohoomil/fontconfig-ultimate](https://github.com/bohoomil/fontconfig-ultimate) - freetype2-infinality run-time settings =&gt; infinality compatible fontconfig =&gt; infinality-bundle
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 - [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
