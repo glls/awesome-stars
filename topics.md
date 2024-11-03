@@ -837,7 +837,6 @@
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -1023,7 +1022,7 @@
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Gemma, as OpenAI compatible API endpoint in the cloud.
 
 ## low-code 
 
