@@ -1211,6 +1211,7 @@
 
 ## others 
 
+- [Frostshake/WMVx](https://github.com/Frostshake/WMVx) - WoW model viewer fork / re-write.
 - [publiclab/leaflet-multispectral](https://github.com/publiclab/leaflet-multispectral) - Multispectral color manipulation and processing (NDVI etc) for Leaflet image overlays with pure JavaScript in Image Sequencer
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [Dicklesworthstone/visual_astar_python](https://github.com/Dicklesworthstone/visual_astar_python) - Generate Cool-Looking Mazes and Animations Illustrating the A* Pathfinding Algorithm
