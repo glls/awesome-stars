@@ -245,6 +245,7 @@
 
 ## Game Maker Language 
 
+- [YoYoGames/GMRT-Beta](https://github.com/YoYoGames/GMRT-Beta) - Bug Tracking for new GameMaker Runtime Beta
 - [patrickgh3/DerpXml](https://github.com/patrickgh3/DerpXml) - Lightweight SAX-style XML parser for GameMaker
 
 ## Gherkin 
@@ -546,7 +547,7 @@
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [eellak/transmem](https://github.com/eellak/transmem) - Translation Memory of Greek-English terms
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-- [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
+- [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [crawshaw/sqlitejdbc](https://github.com/crawshaw/sqlitejdbc) - SQLite JDBC Driver
 
