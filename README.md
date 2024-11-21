@@ -300,6 +300,7 @@
 - [danmunn/redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Fork of svn repository for redmine_dmsf
 - [Gaurav0/Universal-LPC-Spritesheet-Character-Generator](https://github.com/Gaurav0/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Java 
 
@@ -548,7 +549,6 @@
 - [eellak/transmem](https://github.com/eellak/transmem) - Translation Memory of Greek-English terms
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [crawshaw/sqlitejdbc](https://github.com/crawshaw/sqlitejdbc) - SQLite JDBC Driver
 
 ## PHP 
