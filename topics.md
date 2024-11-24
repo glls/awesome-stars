@@ -951,7 +951,7 @@
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [vmasto/express-babel](https://github.com/vmasto/express-babel) - Express starter kit with ES2017+ support, testing, linting, and code coverage
-- [cornerstonejs/cornerstone](https://github.com/cornerstonejs/cornerstone) - JavaScript library to display interactive medical images including but not limited to DICOM
+- [cornerstonejs/cornerstone](https://github.com/cornerstonejs/cornerstone) - [Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -1021,7 +1021,7 @@
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Gemma, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 
 ## low-code 
@@ -1064,7 +1064,6 @@
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 
 ## markdown 
 
@@ -1212,6 +1211,7 @@
 
 ## others 
 
+- [YoYoGames/GMRT-Beta](https://github.com/YoYoGames/GMRT-Beta) - Bug Tracking for new GameMaker Runtime Beta
 - [Frostshake/WMVx](https://github.com/Frostshake/WMVx) - WoW model viewer fork / re-write.
 - [publiclab/leaflet-multispectral](https://github.com/publiclab/leaflet-multispectral) - Multispectral color manipulation and processing (NDVI etc) for Leaflet image overlays with pure JavaScript in Image Sequencer
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
@@ -1465,6 +1465,7 @@
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [BlitterStudio/amigula](https://github.com/BlitterStudio/amigula) - Amiga Games UAE Launcher
 - [leddt/visualstudio-colors-solarized](https://github.com/leddt/visualstudio-colors-solarized) - Visual Studio color schemes based on https://github.com/altercation/solarized
+- [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [dghost/quake2vr](https://github.com/dghost/quake2vr) - Quake II for Oculus Rift
 - [GarageGames/Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
 - [mishamx/yii-user](https://github.com/mishamx/yii-user) - Yii PHP Framework extension for registration and management users accounts.
