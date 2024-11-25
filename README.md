@@ -112,6 +112,7 @@
 
 ## C# # 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [bytefeld/epc.net](https://github.com/bytefeld/epc.net) - A .NET library to work with Electronic Product Codes (EPC, SSCC, SGTIN)
@@ -169,7 +170,7 @@
 - [ModOrganizer2/modorganizer-game_skyrimSE](https://github.com/ModOrganizer2/modorganizer-game_skyrimSE) - Mirror repo
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 - [Sumwunn/AchievementsModsEnabler](https://github.com/Sumwunn/AchievementsModsEnabler) - Enables achievements in Fallout 4 & Skyrim SE when using mods. This is designed to be version independent.
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [simulationcraft/simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [kometbomb/prototracker](https://github.com/kometbomb/prototracker) - Prototracker
