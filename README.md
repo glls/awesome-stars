@@ -367,7 +367,7 @@
 - [tilemill-project/tilemill](https://github.com/tilemill-project/tilemill) - TileMill is a modern map design studio
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
-- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Thematic web maps based on D3.
+- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Thematic web maps based on D3 🗺️
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [btholt/complete-intro-to-react-v6](https://github.com/btholt/complete-intro-to-react-v6) - learn React.js with Brian Holt
