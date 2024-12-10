@@ -104,6 +104,7 @@
 - [microsoftarchive/redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [Hexxeh/rpi-firmware](https://github.com/Hexxeh/rpi-firmware) - Firmware files for the Raspberry Pi
 - [AltraMayor/f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
+- [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
@@ -256,7 +257,7 @@
 ## Go 
 
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
@@ -476,7 +477,6 @@
 
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [exynos5420/android_device_samsung_n2awifi](https://github.com/exynos5420/android_device_samsung_n2awifi) - 
-- [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
 
 ## Markdown 
 
@@ -492,7 +492,7 @@
 - [yujitach/MenuMeters](https://github.com/yujitach/MenuMeters) - my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [emcrisostomo/MenuMeters](https://github.com/emcrisostomo/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS
-- [CozmoNate/HWSensors](https://github.com/CozmoNate/HWSensors) - HWSensors is a software bundle that includes drivers and applications that allow you to access information from hardware sensors available on your Mac
+- [Cozmonat/HWSensors](https://github.com/Cozmonat/HWSensors) - HWSensors is a software bundle that includes drivers and applications that allow you to access information from hardware sensors available on your Mac
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
 - [mikepj/XRG](https://github.com/mikepj/XRG) - System monitor for macOS.
