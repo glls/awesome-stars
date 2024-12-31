@@ -781,7 +781,7 @@
 - [chapter-three/next-drupal](https://github.com/chapter-three/next-drupal) - Next.js for Drupal has everything you need to build a next-generation front-end for your Drupal site: SSG, SSR, and ISR, Multi-site, Authentication, Webforms, Search API, I18n and Preview mode (works 
 - [pavkout/react-mailkit](https://github.com/pavkout/react-mailkit) - Create awesome and fully responsive emails without stress.
 - [niconiahi/chakra-paginator](https://github.com/niconiahi/chakra-paginator) - An aria compliant and completely typed pagination library built upon Chakra UI with styling flexibility kept in mind
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [onehungrymind/fem-enterprise-patterns](https://github.com/onehungrymind/fem-enterprise-patterns) - 
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
