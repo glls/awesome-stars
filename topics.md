@@ -1448,7 +1448,7 @@
 - [antoniolg/MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp) - Example of a Material App for Android
 - [hypest/ipcamAlarmPebble](https://github.com/hypest/ipcamAlarmPebble) - Toggle the email alarm in your foscam ip camera.
 - [mike-lischke/GraphicEx](https://github.com/mike-lischke/GraphicEx) - GraphicEx - a Delphi image loader library
-- [Gaurav0/Universal-LPC-Spritesheet-Character-Generator](https://github.com/Gaurav0/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
+- [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 - [eellak/transmem](https://github.com/eellak/transmem) - Translation Memory of Greek-English terms
 - [Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides) - A World of Warcraft addon bringing guides into the game.
 - [irlnathan/activityoverlord20](https://github.com/irlnathan/activityoverlord20) - This is an update to activityOverlord.
