@@ -1222,6 +1222,7 @@
 
 ## others 
 
+- [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
 - [stuartmatthews/leaflet-geotiff](https://github.com/stuartmatthews/leaflet-geotiff) - Leaflet plugin for displaying geoTIFF raster data
