@@ -169,7 +169,6 @@
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
 - [coin3d/coin](https://github.com/coin3d/coin) - Coin3D core library
-- [ModOrganizer2/modorganizer-game_skyrimSE](https://github.com/ModOrganizer2/modorganizer-game_skyrimSE) - Mirror repo
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 - [Sumwunn/AchievementsModsEnabler](https://github.com/Sumwunn/AchievementsModsEnabler) - Enables achievements in Fallout 4 & Skyrim SE when using mods. This is designed to be version independent.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
@@ -762,6 +761,7 @@
 
 ## TypeScript 
 
+- [niivue/niivue](https://github.com/niivue/niivue) - a WebGL2 based medical image viewer. Supports over 30 formats of volumes and meshes.
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
