@@ -749,6 +749,7 @@
 
 ## gis 
 
+- [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 - [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Thematic web maps based on D3 🗺️
 
 ## git 
@@ -1222,6 +1223,9 @@
 
 ## others 
 
+- [ronkok/Hurmet](https://github.com/ronkok/Hurmet) - Rich text editor on the web, featuring live calculations.
+- [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [scrtwpns/mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
