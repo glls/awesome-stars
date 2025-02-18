@@ -13,6 +13,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -272,6 +273,10 @@
 
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+
+## arduino 
+
+- [opendata-stuttgart/sensors-software](https://github.com/opendata-stuttgart/sensors-software) - sourcecode for reading sensor data
 
 ## artificial-intelligence 
 
@@ -915,6 +920,7 @@
 
 ## iot 
 
+- [opendata-stuttgart/sensors-software](https://github.com/opendata-stuttgart/sensors-software) - sourcecode for reading sensor data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## java 
@@ -1280,7 +1286,7 @@
 - [rcaelers/workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily
 - [bytefeld/epc.net](https://github.com/bytefeld/epc.net) - A .NET library to work with Electronic Product Codes (EPC, SSCC, SGTIN)
 - [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) - 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [Vagelis-Prokopiou/yt](https://github.com/Vagelis-Prokopiou/yt) - YouTube code
