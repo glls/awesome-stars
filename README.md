@@ -388,7 +388,7 @@
 - [segunadebayo/chakra-ui](https://github.com/segunadebayo/chakra-ui) - ⚡️Simple, Modular & Accessible UI Components for your React Applications
 - [EDCD/coriolis](https://github.com/EDCD/coriolis) - Coriolis Shipyard for Elite Dangerous
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [xeokit/xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer) - A browser-based BIM viewer, built on the xeokit SDK
+- [xeokit/xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer) - Built with xeokit SDK. IFC, BIM and Point Cloud 3D Viewer as a package. Enables AEC & GIS applications with double precision global coordinates.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [BreeeZe/rpos](https://github.com/BreeeZe/rpos) - Raspberry Pi Onvif Server
@@ -623,6 +623,7 @@
 
 ## Python 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
