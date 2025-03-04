@@ -355,6 +355,7 @@
 
 ## JavaScript 
 
+- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - An extension for managing LoRA models with previews and metadata integration.
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [ronkok/Hurmet](https://github.com/ronkok/Hurmet) - Rich text editor on the web, featuring live calculations.
 - [stuartmatthews/leaflet-geotiff](https://github.com/stuartmatthews/leaflet-geotiff) - Leaflet plugin for displaying geoTIFF raster data
@@ -626,7 +627,6 @@
 ## Python 
 
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
-- [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - An extension for managing LoRA models with previews and metadata integration.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
