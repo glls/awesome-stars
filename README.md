@@ -470,7 +470,6 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [tensorflow/codelabs](https://github.com/tensorflow/codelabs) - 
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
-- [skorokithakis/pythess](https://github.com/skorokithakis/pythess) - The code files/presentations/everything else used in the PyThess meetup
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
 
 ## Kotlin 
@@ -686,6 +685,7 @@
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [skorokithakis/pythess](https://github.com/skorokithakis/pythess) - The code files/presentations/everything else used in the PyThess meetup
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
