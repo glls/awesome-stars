@@ -236,6 +236,7 @@
 
 ## android 
 
+- [SpicyChair/pluvia_weather_flutter](https://github.com/SpicyChair/pluvia_weather_flutter) - Pluvia 🌦️ | A weather app with beautiful animations, built with Flutter.
 - [ebelinski/apilevels](https://github.com/ebelinski/apilevels) - A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
 - [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 - [feelfreelinux/octo4a](https://github.com/feelfreelinux/octo4a) - Use your old Android device as an OctoPrint server.
@@ -664,6 +665,7 @@
 
 ## flutter 
 
+- [SpicyChair/pluvia_weather_flutter](https://github.com/SpicyChair/pluvia_weather_flutter) - Pluvia 🌦️ | A weather app with beautiful animations, built with Flutter.
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SharezoneApp/sharezone-app](https://github.com/SharezoneApp/sharezone-app) - Sharezone is a collaborative school organization app for iOS, Android, macOS and web with +500,000 downloads. Built with Flutter & Firebase.
