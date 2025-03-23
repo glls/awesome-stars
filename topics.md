@@ -96,6 +96,7 @@
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
+- [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -919,6 +920,10 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [dakshshah96/local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.
 
+## icon-font 
+
+- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
+
 ## image-processing 
 
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -1259,6 +1264,7 @@
 
 ## others 
 
+- [BlitterStudio/amiberry-lite](https://github.com/BlitterStudio/amiberry-lite) - Optimized Amiga emulator for Linux
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [lwfinger/rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
