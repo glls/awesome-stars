@@ -74,6 +74,7 @@
 
 ## C 
 
+- [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [lwfinger/rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -201,7 +202,7 @@
 - [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [Pulse-Eight/libcec](https://github.com/Pulse-Eight/libcec) - USB CEC Adapter communication Library
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [FrodeSolheim/fs-uae](https://github.com/FrodeSolheim/fs-uae) - Cross-platform Amiga emulator with a slight focus on gaming, but also with solid support for productivity apps including just-in-time (JIT) compilation.
 - [urraka/texpack](https://github.com/urraka/texpack) - Simple cross-platform command line texture packer based on the MaxRects algorithm by Jukka Jylänki (https://github.com/juj/RectangleBinPack).
