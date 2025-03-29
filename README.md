@@ -167,7 +167,7 @@
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 - [rcaelers/workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [fietensen/ggpo-py](https://github.com/fietensen/ggpo-py) - GGPO Python bindings
 - [pond3r/ggpo](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK
@@ -636,6 +636,7 @@
 
 ## Python 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
