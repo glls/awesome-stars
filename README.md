@@ -639,6 +639,7 @@
 
 ## Python 
 
+- [DFRobot/DFRobot_ENS160](https://github.com/DFRobot/DFRobot_ENS160) - 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
