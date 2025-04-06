@@ -510,7 +510,7 @@
 
 ## data 
 
-- [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
+- [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial 2D & 3D data platforms.
 
 ## data-science 
 
@@ -983,7 +983,7 @@
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
+- [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial 2D & 3D data platforms.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [pavkout/react-mailkit](https://github.com/pavkout/react-mailkit) - Create awesome and fully responsive emails without stress.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
@@ -1271,6 +1271,7 @@
 
 ## others 
 
+- [DFRobot/DFRobot_ENS160](https://github.com/DFRobot/DFRobot_ENS160) - 
 - [Mathics3/mathics-django](https://github.com/Mathics3/mathics-django) - Django front-end to Mathics3
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [BlitterStudio/amiberry-lite](https://github.com/BlitterStudio/amiberry-lite) - Optimized Amiga emulator for Linux
