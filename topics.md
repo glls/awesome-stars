@@ -190,6 +190,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -1398,7 +1399,7 @@
 - [BreeeZe/rpos](https://github.com/BreeeZe/rpos) - Raspberry Pi Onvif Server
 - [Sidoine/Ovale](https://github.com/Sidoine/Ovale) - An add-on for World of Warcraft that displays icons based on scripts
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [pjreddie/NeHe-Tutorials-Using-GLFW](https://github.com/pjreddie/NeHe-Tutorials-Using-GLFW) - NeHe Tutorials using GLFW for windowing.
 - [kapolos/pramda](https://github.com/kapolos/pramda) - Practical Functional Programming in PHP
 - [dracula/gamemaker-studio](https://github.com/dracula/gamemaker-studio) - 🧛🏻‍♂️ Dark theme for GameMaker Studio 2
@@ -1985,6 +1986,10 @@
 ## ubuntu 
 
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+
+## ui-design 
+
+- [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 
 ## unity 
 
