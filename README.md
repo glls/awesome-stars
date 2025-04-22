@@ -312,7 +312,6 @@
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [JustSteveKing/Bolt-Medium](https://github.com/JustSteveKing/Bolt-Medium) - A Medium Inspired blogging theme for Bolt CMS
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [cvondrick/vatic](https://github.com/cvondrick/vatic) - Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces. IJCV 2012
 - [danmunn/redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Fork of svn repository for redmine_dmsf
 - [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
@@ -441,6 +440,7 @@
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [victorporof/Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) - HTML, CSS, JavaScript, JSON, React/JSX and Vue code formatter for Sublime Text 2 and 3 via node.js
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
 - [tarlepp/Taskboard](https://github.com/tarlepp/Taskboard) - a Sails application to mimic "scrum-ban" taskboard.
 - [irlnathan/activityoverlord](https://github.com/irlnathan/activityoverlord) - An application I'm building to learn sails.js
@@ -636,6 +636,7 @@
 
 ## Python 
 
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [jamessewell/django-timescaledb](https://github.com/jamessewell/django-timescaledb) - A Django database backend and tooling for Timescaledb.
 - [DFRobot/DFRobot_ENS160](https://github.com/DFRobot/DFRobot_ENS160) - 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
