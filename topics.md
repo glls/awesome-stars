@@ -1284,6 +1284,7 @@
 
 ## others 
 
+- [junfanz1/Software-Engineer-Coding-Interviews](https://github.com/junfanz1/Software-Engineer-Coding-Interviews) - Data Structure Algorithms, (GenAI/ML) System Design, Machine Learning, DevOps coding interview practices
 - [unraid/webgui](https://github.com/unraid/webgui) - Unraid Web UI
 - [scubajeff/lespas](https://github.com/scubajeff/lespas) - Les Pas, photo album app for Nextcloud user
 - [DFRobot/DFRobot_ENS160](https://github.com/DFRobot/DFRobot_ENS160) - 
