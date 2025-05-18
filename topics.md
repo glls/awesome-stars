@@ -506,6 +506,7 @@
 
 ## dart 
 
+- [ubuntu/app-center](https://github.com/ubuntu/app-center) - App Store for Ubuntu made with Flutter 🧡 💙
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 - [SharezoneApp/sharezone-app](https://github.com/SharezoneApp/sharezone-app) - Sharezone is a collaborative school organization app for iOS, Android, macOS and web with +500,000 downloads. Built with Flutter & Firebase.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
@@ -634,7 +635,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## electron 
@@ -694,6 +695,7 @@
 
 ## flutter 
 
+- [ubuntu/app-center](https://github.com/ubuntu/app-center) - App Store for Ubuntu made with Flutter 🧡 💙
 - [SpicyChair/pluvia_weather_flutter](https://github.com/SpicyChair/pluvia_weather_flutter) - Pluvia 🌦️ | A weather app with beautiful animations, built with Flutter.
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -887,7 +889,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1003,7 +1005,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [xeokit/xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer) - Built with xeokit SDK. IFC, BIM and Point Cloud 3D Viewer as a package. Enables AEC & GIS applications with double precision global coordinates.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1220,7 +1222,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
@@ -1285,6 +1287,8 @@
 
 ## others 
 
+- [amigavision/AmigaVision](https://github.com/amigavision/AmigaVision) - The ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs, emulators, and real hardware. Open source, community driven. This is an Amiga HDF image builder that uses WHDLoad and custom inst
+- [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
 - [junfanz1/Software-Engineer-Coding-Interviews](https://github.com/junfanz1/Software-Engineer-Coding-Interviews) - Data Structure Algorithms, (GenAI/ML) System Design, Machine Learning, DevOps coding interview practices
 - [unraid/webgui](https://github.com/unraid/webgui) - Unraid Web UI
 - [scubajeff/lespas](https://github.com/scubajeff/lespas) - Les Pas, photo album app for Nextcloud user
@@ -1676,7 +1680,7 @@
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [adnan360/lazarus-beginners-guide](https://github.com/adnan360/lazarus-beginners-guide) - A book written for new Lazarus users, named "Beginners’ Guide to Lazarus IDE". Moved to: https://gitlab.com/adnan360/lazarus-beginners-guide
 
 ## project-management 
@@ -1783,9 +1787,9 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [btholt/complete-intro-to-react-v6](https://github.com/btholt/complete-intro-to-react-v6) - learn React.js with Brian Holt
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [segunadebayo/chakra-ui](https://github.com/segunadebayo/chakra-ui) - ⚡️Simple, Modular & Accessible UI Components for your React Applications
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -1805,7 +1809,7 @@
 - [Frojd/Wagtail-Pipit](https://github.com/Frojd/Wagtail-Pipit) - Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [segunadebayo/chakra-ui](https://github.com/segunadebayo/chakra-ui) - ⚡️Simple, Modular & Accessible UI Components for your React Applications
 
 ## redux 
@@ -1989,6 +1993,7 @@
 
 ## ubuntu 
 
+- [ubuntu/app-center](https://github.com/ubuntu/app-center) - App Store for Ubuntu made with Flutter 🧡 💙
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 
 ## ui 
