@@ -162,7 +162,6 @@
 - [grannypron/uaf](https://github.com/grannypron/uaf) - 
 - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [acoustid/chromaprint](https://github.com/acoustid/chromaprint) - C library for generating audio fingerprints used by AcoustID
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 - [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
@@ -486,6 +485,7 @@
 
 - [scubajeff/lespas](https://github.com/scubajeff/lespas) - Les Pas, photo album app for Nextcloud user
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [feelfreelinux/octo4a](https://github.com/feelfreelinux/octo4a) - Use your old Android device as an OctoPrint server.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
