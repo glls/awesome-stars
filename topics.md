@@ -219,7 +219,7 @@
 
 ## ai 
 
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The TypeScript framework for automating browsers with AI
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
@@ -484,6 +484,7 @@
 
 ## csharp 
 
+- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
@@ -1287,6 +1288,7 @@
 
 ## others 
 
+- [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [amigavision/AmigaVision](https://github.com/amigavision/AmigaVision) - The ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs, emulators, and real hardware. Open source, community driven. This is an Amiga HDF image builder that uses WHDLoad and custom inst
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
 - [junfanz1/Software-Engineer-Coding-Interviews](https://github.com/junfanz1/Software-Engineer-Coding-Interviews) - Data Structure Algorithms, (GenAI/ML) System Design, Machine Learning, DevOps coding interview practices
@@ -1755,7 +1757,6 @@
 
 ## r 
 
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 
 ## raspberry-pi 
