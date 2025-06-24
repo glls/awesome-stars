@@ -7,7 +7,6 @@
 
 - [ASP](#asp)
 - [ActionScript](#actionscript)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -62,10 +61,6 @@
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
 - [increpare/bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator.   Based on Sfxr.
 - [spyros-papadimitriou/yperatou](https://github.com/spyros-papadimitriou/yperatou) - 
-
-## Astro 
-
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Batchfile 
 
@@ -220,6 +215,7 @@
 - [SixArm/ui-ux-design-guide](https://github.com/SixArm/ui-ux-design-guide) - UI/UX Design Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes. Edited by Joel Parker Henderson (@joelparkerhenderson).
 - [jamiewilson/predawn](https://github.com/jamiewilson/predawn) - Predawn is a dark interface and syntax theme for Sublime Text and Atom.
 - [aleksip/shila-drupal-theme](https://github.com/aleksip/shila-drupal-theme) - Atomic design and Pattern Lab friendly, component-based, fairly unopinionated starting point for new Drupal themes
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [SU-SWS/open_framework](https://github.com/SU-SWS/open_framework) - Open Framework Drupal Theme
 
 ## Clojure 
