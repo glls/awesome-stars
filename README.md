@@ -357,6 +357,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [Mathics3/mathics-django](https://github.com/Mathics3/mathics-django) - Django front-end to Mathics3
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
