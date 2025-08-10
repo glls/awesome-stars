@@ -516,6 +516,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 
 ## cybersecurity 
@@ -844,7 +845,7 @@
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -860,7 +861,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -947,6 +948,7 @@
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## html5 
 
@@ -1114,7 +1116,7 @@
 ## llm 
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
