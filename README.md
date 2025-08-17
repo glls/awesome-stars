@@ -575,7 +575,7 @@
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-- [michaelworm/SoDaReloaded-Theme](https://github.com/michaelworm/SoDaReloaded-Theme) - Dark and light custom UI themes for Sublime Text 3 optimized for better readability.
+- [michael-jahn-dev/SoDaReloaded-Theme](https://github.com/michael-jahn-dev/SoDaReloaded-Theme) - Dark and light custom UI themes for Sublime Text 3 optimized for better readability.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
