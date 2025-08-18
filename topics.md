@@ -210,7 +210,6 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -612,6 +611,7 @@
 
 ## django 
 
+- [d-demirci/django-adminlte3](https://github.com/d-demirci/django-adminlte3) - AdminLTE Templates, Template Tags, and Admin Theme for Django
 - [jamessewell/django-timescaledb](https://github.com/jamessewell/django-timescaledb) - A Django database backend and tooling for Timescaledb.
 - [Frojd/Wagtail-Pipit](https://github.com/Frojd/Wagtail-Pipit) - Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -1972,7 +1972,7 @@
 
 ## sublime-text 
 
-- [michaelworm/SoDaReloaded-Theme](https://github.com/michaelworm/SoDaReloaded-Theme) - Dark and light custom UI themes for Sublime Text 3 optimized for better readability.
+- [michael-jahn-dev/SoDaReloaded-Theme](https://github.com/michael-jahn-dev/SoDaReloaded-Theme) - Dark and light custom UI themes for Sublime Text 3 optimized for better readability.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
 
@@ -2142,11 +2142,6 @@
 ## wordpress 
 
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
-
-## zsh 
-
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 
 
 ## License
