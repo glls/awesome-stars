@@ -69,7 +69,7 @@
 
 ## C 
 
-- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [lwfinger/rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
@@ -304,7 +304,7 @@
 - [LukaszPawlowski-MS/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-MS/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
 - [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap) - The Front-End Developer Learning Roadmap by Frontend Masters
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. 1-click GitHub Pages. Premium templates.
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [hack-tools/hack-tools.github.io](https://github.com/hack-tools/hack-tools.github.io) - Tools, resources, tips and other "hackathon related" stuff.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
