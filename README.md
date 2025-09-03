@@ -37,6 +37,7 @@
 - [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -624,6 +625,10 @@
 - [drush-ops/drush](https://github.com/drush-ops/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
 - [icos-urenio/Improve-my-city](https://github.com/icos-urenio/Improve-my-city) - Improve my city allows citizens to report, vote and track non-emergency issues
 
+## PLpgSQL 
+
+- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
+
 ## Pascal 
 
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
@@ -775,7 +780,6 @@
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
-- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [oscarfonts/docker-geoserver](https://github.com/oscarfonts/docker-geoserver) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
