@@ -761,6 +761,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
