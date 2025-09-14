@@ -587,7 +587,7 @@
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [eellak/transmem](https://github.com/eellak/transmem) - Translation Memory of Greek-English terms
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [crawshaw/sqlitejdbc](https://github.com/crawshaw/sqlitejdbc) - SQLite JDBC Driver
 
