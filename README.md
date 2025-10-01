@@ -148,6 +148,7 @@
 
 ## C++ 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
