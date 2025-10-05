@@ -836,6 +836,7 @@
 
 ## TypeScript 
 
+- [unraid/api](https://github.com/unraid/api) - Unraid API / Connect / UI Monorepo
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [BlueprintLabIO/markdown-ui](https://github.com/BlueprintLabIO/markdown-ui) - An open standard for rendering interactive widgets in plain Markdown.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
