@@ -206,6 +206,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vue](#vue)
 - [wagtail](#wagtail)
 - [web](#web)
@@ -229,6 +230,7 @@
 
 ## ai 
 
+- [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - 3D Computer Vision Framework
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
@@ -290,6 +292,7 @@
 
 ## api 
 
+- [unraid/api](https://github.com/unraid/api) - Unraid API / Connect / UI Monorepo
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -494,6 +497,7 @@
 
 ## computer-vision 
 
+- [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - 3D Computer Vision Framework
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
@@ -928,7 +932,6 @@
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -1045,6 +1048,7 @@
 
 ## javascript 
 
+- [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1375,6 +1379,9 @@
 
 ## others 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [s3ppo/unraid_mobile_ui](https://github.com/s3ppo/unraid_mobile_ui) - 
 - [spthermo/mechkeyboards](https://github.com/spthermo/mechkeyboards) - DIY 60% mechanical keyboard experience sharing.
 - [jurkovic-nikola/OpenLinkHub](https://github.com/jurkovic-nikola/OpenLinkHub) - Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -1473,7 +1480,6 @@
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [michiganrobotics/rob501](https://github.com/michiganrobotics/rob501) - Mathematics for Robotics
 - [BlitterStudio/AnimPlayer](https://github.com/BlitterStudio/AnimPlayer) - A simple multi-format, multi-platform Anim player
-- [cosmosgl/graph](https://github.com/cosmosgl/graph) - GPU-accelerated force graph layout and rendering
 - [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 - [hwding/pdf-unstamper](https://github.com/hwding/pdf-unstamper) - Remove textual watermark of any font, any encoding and any language with pdf-unstamper now!
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -1570,7 +1576,6 @@
 - [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
 - [wbond/package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
-- [neurolabusc/surf-ice](https://github.com/neurolabusc/surf-ice) - GLSL surface rendering source code. Compiled versions available from NITRC. Loads 3DS, CTM, DXF, FreeSurfer, GII (GIfTI), GTS, LWO2, MS3D, MZ3, NV (BrainNetViewer), OBJ, OFF, PLY, STL, VTK. Tractograp
 - [alexstyl/Greek-namedays](https://github.com/alexstyl/Greek-namedays) - All Greek Namedays in JSON format
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com
 - [microsoftarchive/redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
@@ -2151,6 +2156,18 @@
 ## visual-studio-code 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## visualization 
+
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
+- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
+- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
+- [cosmosgl/graph](https://github.com/cosmosgl/graph) - GPU-accelerated force graph layout and rendering
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [keplr-io/quiver](https://github.com/keplr-io/quiver) - Interactive convnet features visualization for Keras
+- [neurolabusc/surf-ice](https://github.com/neurolabusc/surf-ice) - GLSL surface rendering source code. Compiled versions available from NITRC. Loads 3DS, CTM, DXF, FreeSurfer, GII (GIfTI), GTS, LWO2, MS3D, MZ3, NV (BrainNetViewer), OBJ, OFF, PLY, STL, VTK. Tractograp
 
 ## vue 
 
