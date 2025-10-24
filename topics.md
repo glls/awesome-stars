@@ -1546,7 +1546,6 @@
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [simulationcraft/simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
-- [bcwdesign/BreakThoseBricks](https://github.com/bcwdesign/BreakThoseBricks) - Breaking bricks game for Unity3D
 - [robertohuertasm/SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d) - SQLite made easy for Unity3d
 - [Cozmonat/HWSensors](https://github.com/Cozmonat/HWSensors) - HWSensors is a software bundle that includes drivers and applications that allow you to access information from hardware sensors available on your Mac
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
