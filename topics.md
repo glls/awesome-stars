@@ -678,6 +678,7 @@
 
 ## documentation 
 
+- [1fish2/IFF](https://github.com/1fish2/IFF) - The "EA IFF-85" (Interchange File Format) Repository
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
@@ -1558,7 +1559,7 @@
 - [simulationcraft/simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
 - [robertohuertasm/SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d) - SQLite made easy for Unity3d
 - [Cozmonat/HWSensors](https://github.com/Cozmonat/HWSensors) - HWSensors is a software bundle that includes drivers and applications that allow you to access information from hardware sensors available on your Mac
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [hechoendrupal/drupal8-links](https://github.com/hechoendrupal/drupal8-links) - Drupal 8 links & resources
 - [phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - phpSysInfo: a customizable PHP script that displays information about your system nicely
