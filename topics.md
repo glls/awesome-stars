@@ -724,6 +724,7 @@
 
 ## emulator 
 
+- [twvd/snow](https://github.com/twvd/snow) - Classic Macintosh emulator
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator for Linux/macOS
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
