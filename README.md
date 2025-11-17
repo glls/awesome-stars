@@ -382,7 +382,6 @@
 - [d-demirci/django-adminlte3](https://github.com/d-demirci/django-adminlte3) - AdminLTE Templates, Template Tags, and Admin Theme for Django
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [Mathics3/mathics-django](https://github.com/Mathics3/mathics-django) - Django front-end to Mathics3
-- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [ronkok/Hurmet](https://github.com/ronkok/Hurmet) - Rich text editor on the web, featuring live calculations.
@@ -510,6 +509,7 @@
 
 ## Lua 
 
+- [VgerMods/Pawn](https://github.com/VgerMods/Pawn) - Pawn: find upgrades, do more damage, win. (Download releases and ask questions at CurseForge.)
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
 - [Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides) - A World of Warcraft addon bringing guides into the game.
@@ -552,6 +552,7 @@
 
 ## Others 
 
+- [MrV2K/Amiga-Game-Selector](https://github.com/MrV2K/Amiga-Game-Selector) - A place to store the scripts for Amiga Game Selector
 - [artnitolog/awesome-arxiv](https://github.com/artnitolog/awesome-arxiv) - Curated resources for discovering, reading, and working with arXiv papers
 - [spthermo/mechkeyboards](https://github.com/spthermo/mechkeyboards) - DIY 60% mechanical keyboard experience sharing.
 - [junfanz1/Software-Engineer-Coding-Interviews](https://github.com/junfanz1/Software-Engineer-Coding-Interviews) - Data Structure Algorithms, (GenAI/ML) System Design, Machine Learning, DevOps coding interview practices
@@ -865,6 +866,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
+- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
