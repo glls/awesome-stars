@@ -331,7 +331,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [cvondrick/vatic](https://github.com/cvondrick/vatic) - Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces. IJCV 2012
 - [danmunn/redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Fork of svn repository for redmine_dmsf
-- [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
 ## Java 
@@ -464,6 +463,7 @@
 - [irlnathan/activityoverlord](https://github.com/irlnathan/activityoverlord) - An application I'm building to learn sails.js
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [hypest/ipcamAlarmPebble](https://github.com/hypest/ipcamAlarmPebble) - Toggle the email alarm in your foscam ip camera.
+- [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 - [irlnathan/activityoverlord20](https://github.com/irlnathan/activityoverlord20) - This is an update to activityOverlord.
 - [CodeboxIDE/codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [miloyip/nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
