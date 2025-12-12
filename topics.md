@@ -86,6 +86,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [generative-ai](#generative-ai)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -894,6 +895,13 @@
 - [Theo47/Depressurizer](https://github.com/Theo47/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
+## generative-ai 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+- [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
+
 ## gis 
 
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
@@ -1638,7 +1646,7 @@
 - [libyal/libewf](https://github.com/libyal/libewf) - Libewf is a library to access the Expert Witness Compression Format (EWF)
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
-- [wbond/package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
+- [sublimehq/package_control](https://github.com/sublimehq/package_control) - The Sublime Text package manager
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
 - [alexstyl/Greek-namedays](https://github.com/alexstyl/Greek-namedays) - All Greek Namedays in JSON format
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com
