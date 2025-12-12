@@ -755,7 +755,7 @@
 - [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [junyanz/iGAN](https://github.com/junyanz/iGAN) - Interactive Image Generation via Generative Adversarial Networks
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [wbond/package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
+- [sublimehq/package_control](https://github.com/sublimehq/package_control) - The Sublime Text package manager
 - [philferriere/dlwin](https://github.com/philferriere/dlwin) - GPU-accelerated Deep Learning on Windows 10 native
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com
 - [grnet/synnefo](https://github.com/grnet/synnefo) - Synnefo is open source cloud software, used to create massively scalable IaaS clouds.
