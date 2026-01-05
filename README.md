@@ -120,6 +120,7 @@
 
 ## C# # 
 
+- [Marlamin/wow.tools.local](https://github.com/Marlamin/wow.tools.local) - Locally runnable version of the wow.tools website and some of its features
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
@@ -375,7 +376,6 @@
 
 ## JavaScript 
 
-- [Marlamin/wow.tools.local](https://github.com/Marlamin/wow.tools.local) - Locally runnable version of the wow.tools website and some of its features
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
