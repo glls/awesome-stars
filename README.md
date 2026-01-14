@@ -71,6 +71,7 @@
 
 ## C 
 
+- [glmcdona/Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -669,6 +670,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Joelzeller/DigitalRaceDashSlim](https://github.com/Joelzeller/DigitalRaceDashSlim) - Digital Race Dash designed for use on Raspberry Pi in a Honda S2000
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [ArgeliusLabs/Chasing-Your-Tail-NG](https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG) - MUCH Improved version of the Python Chasing Your Tail Tool to help you determine if you're being followed
@@ -790,6 +792,7 @@
 
 ## Rust 
 
+- [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [twvd/snow](https://github.com/twvd/snow) - Classic Macintosh emulator
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
