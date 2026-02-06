@@ -443,7 +443,7 @@
 - [keplr-io/quiver](https://github.com/keplr-io/quiver) - Interactive convnet features visualization for Keras
 - [vmasto/react-slides](https://github.com/vmasto/react-slides) - The UI as a Pure Function
 - [vmasto/express-babel](https://github.com/vmasto/express-babel) - Express starter kit with ES2017+ support, testing, linting, and code coverage
-- [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
+- [zz85/space-radar](https://github.com/zz85/space-radar) - Fast Disk And Memory Space Visualization App for Mac, Windows and Ubuntu
 - [cornerstonejs/cornerstone](https://github.com/cornerstonejs/cornerstone) - [Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [auduno/clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
