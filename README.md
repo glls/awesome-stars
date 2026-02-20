@@ -436,7 +436,7 @@
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
-- [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [summernote/summernote](https://github.com/summernote/summernote) - Super Simple WYSIWYG Editor
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [dli/paint](https://github.com/dli/paint) - Fluid Paint - http://david.li/paint
@@ -676,7 +676,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat) - Have a natural, spoken conversation with AI!
 - [amigavision/AmigaVision](https://github.com/amigavision/AmigaVision) - The ultimate Amiga games & demo scene setup for MiSTer & Pocket FPGAs, emulators, and real hardware. Open source, community driven. This is an Amiga HDF image builder that uses WHDLoad and custom inst
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
