@@ -308,6 +308,7 @@
 
 ## HTML 
 
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [publiclab/leaflet-multispectral](https://github.com/publiclab/leaflet-multispectral) - Multispectral color manipulation and processing (NDVI etc) for Leaflet image overlays with pure JavaScript in Image Sequencer
 - [vnglst/pong-wars](https://github.com/vnglst/pong-wars) - It's the eternal battle between day and night, good and bad. Written in JavaScript with some HTML & CSS in one index.html.
@@ -318,7 +319,6 @@
 - [LukaszPawlowski-MS/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-MS/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
 - [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap) - The Front-End Developer Learning Roadmap by Frontend Masters
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks.
 - [hack-tools/hack-tools.github.io](https://github.com/hack-tools/hack-tools.github.io) - Tools, resources, tips and other "hackathon related" stuff.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -496,7 +496,6 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [tensorflow/codelabs](https://github.com/tensorflow/codelabs) - 
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
-- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 - [jcjohnson/densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
 
 ## Kotlin 
