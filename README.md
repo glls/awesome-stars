@@ -99,7 +99,7 @@
 - [pjreddie/NeHe-Tutorials-Using-GLFW](https://github.com/pjreddie/NeHe-Tutorials-Using-GLFW) - NeHe Tutorials using GLFW for windowing.
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
+- [apache/guacamole-server](https://github.com/apache/guacamole-server) - The Apache Guacamole proxy daemon (guacd), C API (libguac), and protocol support.
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [endlessm/cnijfilter2](https://github.com/endlessm/cnijfilter2) - Canon printer drivers
 - [MrZammler/iGame](https://github.com/MrZammler/iGame) - iGame is a simple frontend for launching whdload games.
