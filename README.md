@@ -349,7 +349,7 @@
 - [Nilhcem/tensorflow-classifier-android](https://github.com/Nilhcem/tensorflow-classifier-android) - http://nilhcem.com/android/custom-tensorflow-classifier
 - [IvanVolosyuk/diskusage](https://github.com/IvanVolosyuk/diskusage) - Automatically exported from code.google.com/p/diskusage
 - [timusus/Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player
-- [NordicSemiconductor/Android-Scanner-Compat-Library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library) - A compat library for Bluetooth Low Energy scanning on Android.
+- [nordicsemi/Android-Scanner-Compat-Library](https://github.com/nordicsemi/Android-Scanner-Compat-Library) - A compat library for Bluetooth Low Energy scanning on Android.
 - [alexstyl/Greek-namedays](https://github.com/alexstyl/Greek-namedays) - All Greek Namedays in JSON format
 - [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
 - [osmdroid/osmdroid](https://github.com/osmdroid/osmdroid) - OpenStreetMap-Tools for Android
@@ -519,7 +519,6 @@
 ## Makefile 
 
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [exynos5420/android_device_samsung_n2awifi](https://github.com/exynos5420/android_device_samsung_n2awifi) - 
 
 ## Markdown 
@@ -581,6 +580,7 @@
 - [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [kargig/greek-spammers](https://github.com/kargig/greek-spammers) - Greek Spammers Email Addresses Blacklist
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [hechoendrupal/drupal8-links](https://github.com/hechoendrupal/drupal8-links) - Drupal 8 links & resources
 - [wireapp/wire](https://github.com/wireapp/wire) - :wavy_dash: Overview of the open source code for Wire
@@ -715,7 +715,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [Frojd/Wagtail-Pipit](https://github.com/Frojd/Wagtail-Pipit) - Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [weewx/weewx](https://github.com/weewx/weewx) - WeeWX code repository
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ahupp/python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
