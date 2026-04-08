@@ -1500,6 +1500,7 @@
 
 ## others 
 
+- [LayoutitStudio/voxcss](https://github.com/LayoutitStudio/voxcss) - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
