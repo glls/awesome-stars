@@ -18,7 +18,6 @@
 - [Dockerfile](#dockerfile)
 - [Fluent](#fluent)
 - [Fortran](#fortran)
-- [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
 - [Game Maker Language](#game-maker-language)
 - [Gherkin](#gherkin)
@@ -266,17 +265,12 @@
 
 - [KUL-RSDA/AquaCrop](https://github.com/KUL-RSDA/AquaCrop) - AquaCrop source code endorsed by FAO
 
-## FreeMarker 
-
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
-
 ## GDScript 
 
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
 
 ## Game Maker Language 
 
-- [YoYoGames/GMRT-Beta](https://github.com/YoYoGames/GMRT-Beta) - Bug Tracking for new GameMaker Runtime Beta
 - [patrickgh3/DerpXml](https://github.com/patrickgh3/DerpXml) - Lightweight SAX-style XML parser for GameMaker
 
 ## Gherkin 
