@@ -1501,6 +1501,7 @@
 
 ## others 
 
+- [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) - 
 - [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source) - git mirror of the user interface source code for World of Warcraft
 - [LayoutitStudio/voxcss](https://github.com/LayoutitStudio/voxcss) - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
