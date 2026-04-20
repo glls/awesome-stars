@@ -371,6 +371,7 @@
 
 ## JavaScript 
 
+- [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) - 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
