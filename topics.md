@@ -370,7 +370,7 @@
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -520,7 +520,7 @@
 ## cms 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
@@ -1029,7 +1029,7 @@
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -1966,7 +1966,7 @@
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [weewx/weewx](https://github.com/weewx/weewx) - WeeWX code repository
@@ -2361,7 +2361,7 @@
 ## wagtail 
 
 - [Frojd/Wagtail-Pipit](https://github.com/Frojd/Wagtail-Pipit) - Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 
 ## web 
