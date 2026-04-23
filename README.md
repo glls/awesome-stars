@@ -559,7 +559,7 @@
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
 - [p0rcupine/Contract-Killer](https://github.com/p0rcupine/Contract-Killer) - The Greek version of Contract Killer
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [michiganrobotics/rob501](https://github.com/michiganrobotics/rob501) - Mathematics for Robotics
 - [meanands/heroku-free-alternatives](https://github.com/meanands/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
