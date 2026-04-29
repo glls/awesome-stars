@@ -31,6 +31,7 @@
 - [bootstrap](#bootstrap)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -470,6 +471,14 @@
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
+
+## c-sharp 
+
+- [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
+- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+- [HearthSim/Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+- [AdamsLair/duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework
 
 ## chatgpt 
 
@@ -1664,7 +1673,7 @@
 - [danhermes/xamarin-xaml-book-examples](https://github.com/danhermes/xamarin-xaml-book-examples) - Building Xamarin.Forms Mobile Apps Using XAML - examples from the book by Dan Hermes
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [spyros-papadimitriou/yperatou](https://github.com/spyros-papadimitriou/yperatou) - 
-- [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
+- [jonas-med-ett-s/idle_master_extended](https://github.com/jonas-med-ett-s/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [sebastianbergmann/container-amiga-gcc](https://github.com/sebastianbergmann/container-amiga-gcc) - Containerfile for AmigaOS Cross-Compiler Toolchain
 - [kargig/greek-spammers](https://github.com/kargig/greek-spammers) - Greek Spammers Email Addresses Blacklist
