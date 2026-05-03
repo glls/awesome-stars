@@ -69,6 +69,7 @@
 
 ## C 
 
+- [BlitterStudio/dopus5](https://github.com/BlitterStudio/dopus5) - A modern, actively-maintained fork of Directory Opus 5 Magellan II, the legendary Amiga file manager, ported and updated for all Amiga-like platforms.
 - [glmcdona/Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
