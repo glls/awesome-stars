@@ -1515,6 +1515,7 @@
 
 ## others 
 
+- [BlitterStudio/dopus5](https://github.com/BlitterStudio/dopus5) - A modern, actively-maintained fork of Directory Opus 5 Magellan II, the legendary Amiga file manager, ported and updated for all Amiga-like platforms.
 - [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) - 
 - [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source) - git mirror of the user interface source code for World of Warcraft
 - [LayoutitStudio/voxcss](https://github.com/LayoutitStudio/voxcss) - A CSS voxel engine. A 3D grid for the DOM. Renders HTML cuboids by stacking grid layers and applying transforms.
