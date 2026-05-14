@@ -1526,6 +1526,7 @@
 
 ## others 
 
+- [ynarwal/how-llms-work](https://github.com/ynarwal/how-llms-work) - 
 - [BlitterStudio/dopus5](https://github.com/BlitterStudio/dopus5) - A modern, actively-maintained fork of Directory Opus 5 Magellan II, the legendary Amiga file manager, ported and updated for all Amiga-like platforms.
 - [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) - 
 - [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source) - git mirror of the user interface source code for World of Warcraft
