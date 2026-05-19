@@ -41,7 +41,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [QML](#qml)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -685,6 +684,7 @@
 - [DFRobot/DFRobot_ENS160](https://github.com/DFRobot/DFRobot_ENS160) - 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -771,10 +771,6 @@
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-
-## QML 
-
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Rich Text Format 
 
