@@ -1530,7 +1530,7 @@
 - [BlitterStudio/dopus5](https://github.com/BlitterStudio/dopus5) - A modern, actively-maintained fork of Directory Opus 5 Magellan II, the legendary Amiga file manager, ported and updated for all Amiga-like platforms.
 - [felixturner/hex-map-wfc](https://github.com/felixturner/hex-map-wfc) - 
 - [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source) - git mirror of the user interface source code for World of Warcraft
-- [LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss) - An experimental CSS 3D engine. Renders HTML voxels and meshes by leveraging matrix transforms.
+- [LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss) - A CSS 3D engine for the DOM. Renders HTML voxels and meshes by leveraging matrix transforms.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -1548,7 +1548,7 @@
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [Cirrus-Minor/witchblast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawler game
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [spthermo/mechkeyboards](https://github.com/spthermo/mechkeyboards) - DIY 60% mechanical keyboard experience sharing.
 - [jurkovic-nikola/OpenLinkHub](https://github.com/jurkovic-nikola/OpenLinkHub) - Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
