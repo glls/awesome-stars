@@ -648,7 +648,7 @@
 
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
-- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - A lightweight JavaScript and TypeScript library based on D3.js to quickly create, customize, and embed interactive statistical maps using Eurostat NUTS region data.
+- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Data-driven web maps based on D3 🗺️
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -952,7 +952,7 @@
 ## gis 
 
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
-- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - A lightweight JavaScript and TypeScript library based on D3.js to quickly create, customize, and embed interactive statistical maps using Eurostat NUTS region data.
+- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Data-driven web maps based on D3 🗺️
 - [xeokit/xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer) - Built with xeokit SDK. IFC, BIM and Point Cloud 3D Viewer as a package. Enables AEC & GIS applications with double precision global coordinates.
 
 ## git 
@@ -1181,7 +1181,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial 2D & 3D data platforms.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - A lightweight JavaScript and TypeScript library based on D3.js to quickly create, customize, and embed interactive statistical maps using Eurostat NUTS region data.
+- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Data-driven web maps based on D3 🗺️
 - [pavkout/react-mailkit](https://github.com/pavkout/react-mailkit) - Create awesome and fully responsive emails without stress.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -2222,7 +2222,7 @@
 
 ## statistics 
 
-- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - A lightweight JavaScript and TypeScript library based on D3.js to quickly create, customize, and embed interactive statistical maps using Eurostat NUTS region data.
+- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Data-driven web maps based on D3 🗺️
 
 ## sublime-text 
 
@@ -2306,7 +2306,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - A lightweight JavaScript and TypeScript library based on D3.js to quickly create, customize, and embed interactive statistical maps using Eurostat NUTS region data.
+- [eurostat/eurostat-map](https://github.com/eurostat/eurostat-map) - Data-driven web maps based on D3 🗺️
 - [pavkout/react-mailkit](https://github.com/pavkout/react-mailkit) - Create awesome and fully responsive emails without stress.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
