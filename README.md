@@ -94,6 +94,7 @@
 - [linuxmint/nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [pjreddie/NeHe-Tutorials-Using-GLFW](https://github.com/pjreddie/NeHe-Tutorials-Using-GLFW) - NeHe Tutorials using GLFW for windowing.
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
@@ -129,7 +130,6 @@
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [bytefeld/epc.net](https://github.com/bytefeld/epc.net) - A .NET library to work with Electronic Product Codes (EPC, SSCC, SGTIN)
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [UltimateFishbot/UltimateFishbot](https://github.com/UltimateFishbot/UltimateFishbot) - A simple World of Warcraft fishbot written in VB.net
 - [danhermes/xamarin-xaml-book-examples](https://github.com/danhermes/xamarin-xaml-book-examples) - Building Xamarin.Forms Mobile Apps Using XAML - examples from the book by Dan Hermes
 - [jonas-med-ett-s/idle_master_extended](https://github.com/jonas-med-ett-s/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
