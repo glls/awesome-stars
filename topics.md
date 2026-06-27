@@ -1658,7 +1658,7 @@
 - [aiba/react-native-m1](https://github.com/aiba/react-native-m1) - react-native 0.64.2 with Apple M1 and XCode 12.5
 - [niconiahi/chakra-paginator](https://github.com/niconiahi/chakra-paginator) - An aria compliant and completely typed pagination library built upon Chakra UI with styling flexibility kept in mind
 - [btholt/intro-to-web-dev-v2](https://github.com/btholt/intro-to-web-dev-v2) - Intro to Web Dev, v2
-- [LukaszPawlowski-MS/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-MS/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
+- [LukaszPawlowski-Work/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-Work/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
 - [ec-europa/joinup-dev](https://github.com/ec-europa/joinup-dev) - The Joinup project moved to https://git.fpfis.eu/ec-europa/digit-joinup-reference
 - [EDCD/coriolis](https://github.com/EDCD/coriolis) - Coriolis Shipyard for Elite Dangerous
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
