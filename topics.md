@@ -1263,6 +1263,7 @@
 
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1596,7 +1597,6 @@
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime and toolkit
-- [stuartmatthews/leaflet-geotiff](https://github.com/stuartmatthews/leaflet-geotiff) - Leaflet plugin for displaying geoTIFF raster data
 - [Frostshake/WMVx](https://github.com/Frostshake/WMVx) - WoW model viewer fork / re-write.
 - [publiclab/leaflet-multispectral](https://github.com/publiclab/leaflet-multispectral) - Multispectral color manipulation and processing (NDVI etc) for Leaflet image overlays with pure JavaScript in Image Sequencer
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
@@ -2426,6 +2426,7 @@
 ## windows 
 
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
