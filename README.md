@@ -61,6 +61,7 @@
 
 ## Assembly 
 
+- [kotbehemot53/amiga-space-invaders](https://github.com/kotbehemot53/amiga-space-invaders) - A vibe-coded clone of the Space Invaders for the Amiga 500
 - [jhorneman/ambermoon](https://github.com/jhorneman/ambermoon) - Historical source code and documents related to Ambermoon, the role-playing game developed by Thalion Software GmbH, and published for the Commodore Amiga in 1993.
 
 ## Astro 
