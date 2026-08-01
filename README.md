@@ -669,6 +669,7 @@
 
 ## Python 
 
+- [alfishe/amiga-bootcamp](https://github.com/alfishe/amiga-bootcamp) - Knowledge about Amiga for software developers
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Joelzeller/DigitalRaceDashSlim](https://github.com/Joelzeller/DigitalRaceDashSlim) - Digital Race Dash designed for use on Raspberry Pi in a Honda S2000
