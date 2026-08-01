@@ -1540,6 +1540,7 @@
 
 ## others 
 
+- [alfishe/amiga-bootcamp](https://github.com/alfishe/amiga-bootcamp) - Knowledge about Amiga for software developers
 - [kotbehemot53/amiga-space-invaders](https://github.com/kotbehemot53/amiga-space-invaders) - A vibe-coded clone of the Space Invaders for the Amiga 500
 - [ynarwal/how-llms-work](https://github.com/ynarwal/how-llms-work) - 
 - [BlitterStudio/dopus5](https://github.com/BlitterStudio/dopus5) - A modern, actively-maintained fork of Directory Opus 5 Magellan II, the legendary Amiga file manager, ported and updated for all Amiga-like platforms.
