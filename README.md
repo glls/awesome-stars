@@ -557,7 +557,7 @@
 - [MrV2K/Amiga-Game-Selector](https://github.com/MrV2K/Amiga-Game-Selector) - A place to store the scripts for Amiga Game Selector
 - [artnitolog/awesome-arxiv](https://github.com/artnitolog/awesome-arxiv) - Curated resources for discovering, reading, and working with arXiv papers
 - [spthermo/mechkeyboards](https://github.com/spthermo/mechkeyboards) - DIY 60% mechanical keyboard experience sharing.
-- [junfanz1/Software-Engineer-Coding-Interviews](https://github.com/junfanz1/Software-Engineer-Coding-Interviews) - Data Structure Algorithms, (GenAI/ML) System Design, Machine Learning, DevOps coding interview practices
+- [junfanz1/Awesome-Senior-Engineer-Algorithms-Review](https://github.com/junfanz1/Awesome-Senior-Engineer-Algorithms-Review) - Data Structure Algorithms, (GenAI/ML) System Design, Machine Learning, DevOps coding interview practices
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime and toolkit
