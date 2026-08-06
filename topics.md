@@ -1540,6 +1540,7 @@
 
 ## others 
 
+- [sortbek/simcraft](https://github.com/sortbek/simcraft) - SimulationCraft web app + desktop app. Simulate your World of Warcraft character's DPS, find best gear, and optimize stat weights.
 - [alfishe/amiga-bootcamp](https://github.com/alfishe/amiga-bootcamp) - Knowledge about Amiga for software developers
 - [kotbehemot53/amiga-space-invaders](https://github.com/kotbehemot53/amiga-space-invaders) - A vibe-coded clone of the Space Invaders for the Amiga 500
 - [ynarwal/how-llms-work](https://github.com/ynarwal/how-llms-work) - 
