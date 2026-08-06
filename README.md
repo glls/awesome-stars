@@ -790,6 +790,7 @@
 
 ## Rust 
 
+- [sortbek/simcraft](https://github.com/sortbek/simcraft) - SimulationCraft web app + desktop app. Simulate your World of Warcraft character's DPS, find best gear, and optimize stat weights.
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [twvd/snow](https://github.com/twvd/snow) - Classic Macintosh emulator
