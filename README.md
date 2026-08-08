@@ -17,7 +17,6 @@
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Fluent](#fluent)
 - [Fortran](#fortran)
 - [GDScript](#gdscript)
 - [Game Maker Language](#game-maker-language)
@@ -261,10 +260,6 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Fortran 
 
 - [KUL-RSDA/AquaCrop](https://github.com/KUL-RSDA/AquaCrop) - AquaCrop source code endorsed by FAO
@@ -322,6 +317,7 @@
 - [LukaszPawlowski-Work/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-Work/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
 - [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap) - The Front-End Developer Learning Roadmap by Frontend Masters
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks.
 - [hack-tools/hack-tools.github.io](https://github.com/hack-tools/hack-tools.github.io) - Tools, resources, tips and other "hackathon related" stuff.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
