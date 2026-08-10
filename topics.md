@@ -55,6 +55,8 @@
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
+- [data-analysis](#data-analysis)
+- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -651,6 +653,14 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial 2D & 3D data platforms.
 
+## data-analysis 
+
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+## data-science 
+
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
 ## data-structures 
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1118,6 +1128,7 @@
 
 ## http 
 
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
@@ -1545,6 +1556,9 @@
 
 ## others 
 
+- [kemayo/wow-silverdragon](https://github.com/kemayo/wow-silverdragon) - World of Warcraft addon to find rare mobs
+- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
+- [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
 - [sortbek/simcraft](https://github.com/sortbek/simcraft) - SimulationCraft web app + desktop app. Simulate your World of Warcraft character's DPS, find best gear, and optimize stat weights.
 - [alfishe/amiga-bootcamp](https://github.com/alfishe/amiga-bootcamp) - Knowledge about Amiga for software developers
 - [kotbehemot53/amiga-space-invaders](https://github.com/kotbehemot53/amiga-space-invaders) - A vibe-coded clone of the Space Invaders for the Amiga 500
@@ -1991,6 +2005,9 @@
 
 ## python 
 
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 - [google-research/tnco](https://github.com/google-research/tnco) - TNCO is a heuristic tool that optimizes tensor network contraction paths.
