@@ -1554,6 +1554,8 @@
 
 ## others 
 
+- [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl) - The Little Book of Reinforcement Learning
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [kemayo/wow-silverdragon](https://github.com/kemayo/wow-silverdragon) - World of Warcraft addon to find rare mobs
 - [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
