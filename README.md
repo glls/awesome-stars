@@ -465,7 +465,6 @@
 - [irlnathan/activityoverlord](https://github.com/irlnathan/activityoverlord) - An application I'm building to learn sails.js
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [hypest/ipcamAlarmPebble](https://github.com/hypest/ipcamAlarmPebble) - Toggle the email alarm in your foscam ip camera.
-- [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 - [irlnathan/activityoverlord20](https://github.com/irlnathan/activityoverlord20) - This is an update to activityOverlord.
 - [CodeboxIDE/codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [miloyip/nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
@@ -930,6 +929,7 @@
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 
