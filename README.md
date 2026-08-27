@@ -74,6 +74,7 @@
 
 ## C 
 
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [BlitterStudio/dopus5](https://github.com/BlitterStudio/dopus5) - A modern, actively-maintained fork of Directory Opus 5 Magellan II, the legendary Amiga file manager, ported and updated for all Amiga-like platforms.
 - [glmcdona/Process-Dump](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis.
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
@@ -430,7 +431,6 @@
 - [PacktPublishing/React-and-React-Native-Second-Edition](https://github.com/PacktPublishing/React-and-React-Native-Second-Edition) - React and React Native, Second Edition, published by Packt
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo:
 - [Coding-Coach/coding-coach](https://github.com/Coding-Coach/coding-coach) - This is the landing page :)
 - [Kruithne/Recipe-Completion](https://github.com/Kruithne/Recipe-Completion) - A website for tracking World of Warcraft profession progress
@@ -583,6 +583,7 @@
 - [adnan360/lazarus-beginners-guide](https://github.com/adnan360/lazarus-beginners-guide) - A book written for new Lazarus users, named "Beginners’ Guide to Lazarus IDE". Moved to: https://gitlab.com/adnan360/lazarus-beginners-guide
 - [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [kargig/greek-spammers](https://github.com/kargig/greek-spammers) - Greek Spammers Email Addresses Blacklist
+- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
