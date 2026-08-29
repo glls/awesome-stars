@@ -671,6 +671,7 @@
 
 ## Python 
 
+- [porech/samsung_ac_dplug](https://github.com/porech/samsung_ac_dplug) - Home Assistant integration for old Samsung air conditioners (DPLUG/AC14K, port 2878) — local control, guided setup, native entities
 - [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl) - The Little Book of Reinforcement Learning
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
