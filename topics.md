@@ -1102,6 +1102,7 @@
 
 ## home-assistant 
 
+- [porech/samsung_ac_dplug](https://github.com/porech/samsung_ac_dplug) - Home Assistant integration for old Samsung air conditioners (DPLUG/AC14K, port 2878) — local control, guided setup, native entities
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 
 ## homebrew 
