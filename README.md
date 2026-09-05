@@ -324,6 +324,7 @@
 - [LukaszPawlowski-Work/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-Work/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
 - [FrontendMasters/learning-roadmap](https://github.com/FrontendMasters/learning-roadmap) - The Front-End Developer Learning Roadmap by Frontend Masters
+- [skorokithakis/pythess](https://github.com/skorokithakis/pythess) - The code files/presentations/everything else used in the PyThess meetup
 - [drupaltools/drupaltools.github.io](https://github.com/drupaltools/drupaltools.github.io) - A curated list of OS tools used for Drupal related tasks.
 - [hack-tools/hack-tools.github.io](https://github.com/hack-tools/hack-tools.github.io) - Tools, resources, tips and other "hackathon related" stuff.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -759,7 +760,6 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
-- [skorokithakis/pythess](https://github.com/skorokithakis/pythess) - The code files/presentations/everything else used in the PyThess meetup
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
@@ -873,7 +873,7 @@
 
 - [layoutit/polycss](https://github.com/layoutit/polycss) - A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
 - [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
