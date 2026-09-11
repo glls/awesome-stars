@@ -514,6 +514,7 @@
 
 ## Lua 
 
+- [crystaltech/GoldAdvisorMidnight](https://github.com/crystaltech/GoldAdvisorMidnight) - Gold Advisor Midnight is a WoW Retail Midnight addon for Auction House-based crafting analysis. It scans prices, evaluates strategy profitability, and shows the materials, revenue, and ROI behind each
 - [kemayo/wow-silverdragon](https://github.com/kemayo/wow-silverdragon) - World of Warcraft addon to find rare mobs
 - [Gethe/wow-ui-source](https://github.com/Gethe/wow-ui-source) - git mirror of the user interface source code for World of Warcraft
 - [VgerMods/Pawn](https://github.com/VgerMods/Pawn) - Pawn: find upgrades, do more damage, win. (Download releases and ask questions at CurseForge.)
