@@ -389,6 +389,7 @@
 - [d-demirci/django-adminlte3](https://github.com/d-demirci/django-adminlte3) - AdminLTE Templates, Template Tags, and Admin Theme for Django
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [Mathics3/Mathics3-Frontend-django](https://github.com/Mathics3/Mathics3-Frontend-django) - Django front-end to Mathics3
+- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [ronkok/Hurmet](https://github.com/ronkok/Hurmet) - Rich text editor on the web, featuring live calculations.
@@ -885,7 +886,6 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
-- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
