@@ -1554,6 +1554,7 @@
 
 ## others 
 
+- [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) - 
 - [JosephLteif/WhyLowDPS](https://github.com/JosephLteif/WhyLowDPS) - Windows desktop app for local WoW character simulation, sim history, route-based sims, gear planning, vault checks, affixes, and character wishlists.
 - [crystaltech/GoldAdvisorMidnight](https://github.com/crystaltech/GoldAdvisorMidnight) - Gold Advisor Midnight is a WoW Retail Midnight addon for Auction House-based crafting analysis. It scans prices, evaluates strategy profitability, and shows the materials, revenue, and ROI behind each
 - [MonChiSub/Midnight-TSM_Group_Setup](https://github.com/MonChiSub/Midnight-TSM_Group_Setup) - 
