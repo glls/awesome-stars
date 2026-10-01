@@ -341,7 +341,7 @@
 ## Java 
 
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - All-in-one IoT Platform - Device management, data collection, processing and visualization.
 - [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 - [Vagelis-Prokopiou/yt](https://github.com/Vagelis-Prokopiou/yt) - YouTube code
 - [geopaparazzi/geopaparazzi](https://github.com/geopaparazzi/geopaparazzi) - Because not all paparazzis are evil!
