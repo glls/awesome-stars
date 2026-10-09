@@ -1606,7 +1606,7 @@
 - [scubajeff/lespas](https://github.com/scubajeff/lespas) - Les Pas, photo album app for Nextcloud user
 - [Mathics3/Mathics3-Frontend-django](https://github.com/Mathics3/Mathics3-Frontend-django) - Django front-end to Mathics3
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
-- [BlitterStudio/amiberry-lite](https://github.com/BlitterStudio/amiberry-lite) - Optimized Amiga emulator for Linux
+- [BlitterStudio/amiberry-lite](https://github.com/BlitterStudio/amiberry-lite) - Optimized Amiga emulator for various platforms. This is the Lite version, less features, less accuracy, better suited for RPI3-level devices
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [lwfinger/rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
