@@ -166,7 +166,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
-- [BlitterStudio/amiberry-lite](https://github.com/BlitterStudio/amiberry-lite) - Optimized Amiga emulator for Linux
+- [BlitterStudio/amiberry-lite](https://github.com/BlitterStudio/amiberry-lite) - Optimized Amiga emulator for various platforms. This is the Lite version, less features, less accuracy, better suited for RPI3-level devices
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [opendata-stuttgart/sensors-software](https://github.com/opendata-stuttgart/sensors-software) - sourcecode for reading sensor data
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
