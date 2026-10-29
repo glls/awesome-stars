@@ -199,6 +199,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sketch](#sketch)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -2236,6 +2237,10 @@
 ## sketch 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+
+## skills 
+
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## software 
 
