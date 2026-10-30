@@ -318,7 +318,6 @@
 - [publiclab/leaflet-multispectral](https://github.com/publiclab/leaflet-multispectral) - Multispectral color manipulation and processing (NDVI etc) for Leaflet image overlays with pure JavaScript in Image Sequencer
 - [vnglst/pong-wars](https://github.com/vnglst/pong-wars) - It's the eternal battle between day and night, good and bad. Written in JavaScript with some HTML & CSS in one index.html.
 - [sanderfrenken/Universal-LPC-Spritesheet-Character-Generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
-- [ebelinski/apilevels](https://github.com/ebelinski/apilevels) - A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [LukaszPawlowski-Work/Optimize-Publish-To-Web](https://github.com/LukaszPawlowski-Work/Optimize-Publish-To-Web) - Shows how to optimize a Power BI Publish to embed code to fit perfectly in a web page.
@@ -679,7 +678,7 @@
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
-- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
+- [django-commons/dj-database-url](https://github.com/django-commons/dj-database-url) - Use Database URLs in your Django Application.
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
 - [alfishe/amiga-bootcamp](https://github.com/alfishe/amiga-bootcamp) - Knowledge about Amiga for software developers
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
@@ -711,6 +710,7 @@
 - [mdqinc/SDL_GameControllerDB](https://github.com/mdqinc/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL Game Controller functionality
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
+- [ebelinski/apilevels](https://github.com/ebelinski/apilevels) - A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [vale46n1/immich_duplicate_finder](https://github.com/vale46n1/immich_duplicate_finder) - A Comprehensive Solution for Identifying and Managing Duplicate Photos in Immich
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
