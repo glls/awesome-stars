@@ -17,6 +17,7 @@
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
 - [Fortran](#fortran)
 - [GDScript](#gdscript)
@@ -263,6 +264,10 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM
 
+## Emacs Lisp 
+
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -335,7 +340,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [cvondrick/vatic](https://github.com/cvondrick/vatic) - Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces. IJCV 2012
 - [danmunn/redmine_dmsf](https://github.com/danmunn/redmine_dmsf) - Fork of svn repository for redmine_dmsf
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
 ## Java 
 
