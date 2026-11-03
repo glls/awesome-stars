@@ -14,6 +14,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
@@ -343,6 +344,11 @@
 - [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 - [nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine) - Free Android 2D OpenGL Game Engine
 
+## android-app 
+
+- [timusus/Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
+
 ## animation 
 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -388,7 +394,7 @@
 ## automation 
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
+- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically. An all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1293,7 +1299,7 @@
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
+- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically. An all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1873,7 +1879,6 @@
 - [watabou/pixel-dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
 - [sergstetsuk/CosyDVR](https://github.com/sergstetsuk/CosyDVR) - android open source auto DVR
 - [INsReady/DrupalCloud](https://github.com/INsReady/DrupalCloud) - DrupalCloud is a library for native Android applications to communicate with Drupal web services.
-- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [BlitterStudio/amigula](https://github.com/BlitterStudio/amigula) - Amiga Games UAE Launcher
 - [leddt/visualstudio-colors-solarized](https://github.com/leddt/visualstudio-colors-solarized) - Visual Studio color schemes based on https://github.com/altercation/solarized
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
@@ -2470,7 +2475,7 @@
 ## windows 
 
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
+- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically. An all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - Next generation of Tomboy
