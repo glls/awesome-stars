@@ -400,6 +400,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Kruithne/wow.export](https://github.com/Kruithne/wow.export) - 📦 wow.export is the number one export toolkit for World of Warcraft.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [sparkbox/bouncy-ball](https://github.com/sparkbox/bouncy-ball) - :red_circle:  Compare web animation techniques by bouncing a ball with each one.
@@ -899,7 +900,6 @@
 - [midrender/revideo](https://github.com/midrender/revideo) - Create Videos with Code
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
@@ -911,7 +911,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [cosmosgl/graph](https://github.com/cosmosgl/graph) - GPU-accelerated force graph layout and rendering
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
