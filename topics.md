@@ -2077,7 +2077,6 @@
 ## python3 
 
 - [fietensen/ggpo-py](https://github.com/fietensen/ggpo-py) - GGPO Python bindings
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 
 ## pytorch 
