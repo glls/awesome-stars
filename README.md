@@ -110,7 +110,6 @@
 - [MrZammler/iGame](https://github.com/MrZammler/iGame) - iGame is a simple frontend for launching whdload games.
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-- [Wargus/wargus](https://github.com/Wargus/wargus) - Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales
 - [jens-maus/amissl](https://github.com/jens-maus/amissl) - :closed_lock_with_key: AmiSSL is the AmigaOS/MorphOS/AROS port of OpenSSL. It wraps the full functionality of OpenSSL into a full-fledged Amiga shared library that makes it possible for Amiga applicat
 - [libyal/libewf](https://github.com/libyal/libewf) - Libewf is a library to access the Expert Witness Compression Format (EWF)
 - [microsoftarchive/redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
@@ -524,6 +523,7 @@
 - [VgerMods/Pawn](https://github.com/VgerMods/Pawn) - Pawn: find upgrades, do more damage, win. (Download releases and ask questions at CurseForge.)
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
+- [Wargus/wargus](https://github.com/Wargus/wargus) - Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales
 - [Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides) - A World of Warcraft addon bringing guides into the game.
 
 ## Makefile 
