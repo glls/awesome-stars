@@ -221,7 +221,7 @@
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
-- [FrodeSolheim/fs-uae](https://github.com/FrodeSolheim/fs-uae) - Cross-platform Amiga emulator with a slight focus on gaming, but also with solid support for productivity apps including just-in-time (JIT) compilation.
+- [FrodeSolheim/fs-uae](https://github.com/FrodeSolheim/fs-uae) - Cross-platform Amiga emulator with a focus on gaming and ease of use. FS-UAE 3 is the latest stable, and FS-UAE 5 is the in-development next generation FS-UAE (Latest dev builds at https://github.com/
 - [urraka/texpack](https://github.com/urraka/texpack) - Simple cross-platform command line texture packer based on the MaxRects algorithm by Jukka Jylänki (https://github.com/juj/RectangleBinPack).
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [vlc-qt/vlc-qt](https://github.com/vlc-qt/vlc-qt) - VLC-Qt - a simple library to connect Qt application with libVLC
